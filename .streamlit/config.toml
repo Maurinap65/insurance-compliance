@@ -1,0 +1,5 @@
+[theme]
+base = "dark"
+primaryColor = "#e879f9"
+borderColor = "#e879f9"
+showWidgetBorder = true
