@@ -1,0 +1,321 @@
+ REGOLAMENTO IVASS N. 45 DEL 4 AGOSTO 2020
+REGOLAMENTO IVASS RECANTE DISPOSIZIONI IN MATERIA DI REQUISITI DI GOVERNO E CONTROLLO DEI PRODOTTI ASSICURATIVI AI SENSI DEL DECRETO LEGISLATIVO 7 SETTEMBRE 2005, N. 209 – CODICE DELLE ASSICURAZIONI PRIVATE E SUCCESSIVE MODIFICHE E INTEGRAZIONI.1
+MODIFICATO E INTEGRATO DAL PROVVEDIMENTO IVASS N. 131 DEL 10 MAGGIO 2023. LE MODIFICHE E INTEGRAZIONI SONO RIPORTATE IN CORSIVO.
+L’ISTITUTO PER LA VIGILANZA SULLE ASSICURAZIONI
+VISTA la legge 12 agosto 1982, n. 576 e successive modifiche e integrazioni, concernente la riforma della vigilanza sulle assicurazioni;
+VISTO l’articolo 13 del decreto legge 6 luglio 2012, n. 95, convertito con modifiche nella legge n. 135 del 7 agosto 2012, concernente disposizioni urgenti per la revisione della spesa pubblica con invarianza dei servizi ai cittadini e recante l’istituzione dell’IVASS;
+VISTO il decreto del Presidente della Repubblica 12 dicembre 2012, pubblicato nella Gazzetta Ufficiale della Repubblica Italiana - Serie generale - n. 303 del 31 dicembre 2012, che ha approvato lo Statuto dell’IVASS, entrato in vigore il 1° gennaio 2013;
+VISTO il decreto legislativo 7 settembre 2005, n. 209, e successive modificazioni e integrazioni, recante il Codice delle Assicurazioni Private, e, in particolare, gli articoli 30- decies e 121-bis;
+VISTO il decreto legge 18 ottobre 2012, n. 179, convertito nella legge 17 dicembre 2012, n. 221 recante “Ulteriori misure urgenti per la crescita del Paese”;
+VISTO il Regolamento IVASS n. 3 del 5 novembre 2013, sull’attuazione delle disposizioni di cui all’articolo 23 della legge 28 dicembre 2005, n. 262, in materia di procedimenti per l’adozione di atti regolamentari e generali dell’IVASS;
+VISTO il Regolamento Delegato (UE) 2017/2358 della Commissione del 21 settembre 2017 che integra la Direttiva (UE) 2016/97 del Parlamento europeo e del Consiglio per quanto riguarda i requisiti in materia di governo e controllo del prodotto per le imprese di assicurazione e i distributori di prodotti assicurativi;
+VISTA la legge 25 ottobre 2017, n. 163, recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - legge di delegazione europea 2016-2017 e, in particolare, l'articolo 5;
+VISTO il Regolamento IVASS n. 38 del 3 luglio 2018 recante disposizioni in materia di governo societario di cui al Titolo III (Esercizio dell’attività assicurativa) del decreto
+1 La presente versione consolidata del Regolamento n. 45/2020 è pubblicata a fini esclusivamente informativi. 1
+ 
+ legislativo 7 settembre 2005, n. 209, e successive modificazioni e integrazioni recante il Codice delle Assicurazioni Private;
+VISTO il Regolamento IVASS n. 40 del 2 agosto 2018 recante disposizioni in materia di distribuzione assicurativa e riassicurativa di cui al Titolo IX (Disposizioni Generali in materia di distribuzione) del decreto legislativo 7 settembre 2005, n. 209 – Codice delle Assicurazioni Private;
+CONSIDERATA la necessità di dare attuazione alla normativa nazionale e dell’Unione europea;
+SENTITA la Consob, Commissione nazionale per le società e la borsa, adotta il seguente
+Capo I – Disposizioni generali
+Art. 1 (Fonti normative)
+Art. 2 (Definizioni)
+Art. 3 (Ambito di applicazione)
+REGOLAMENTO
+INDICE
+Capo II - Requisiti di governo e controllo dei prodotti assicurativi applicabili ai produttori
+Art. 4 (Principi generali)
+Art. 5 (Ruolo dell’organo amministrativo e della funzione di verifica di conformità alle norme) Art. 6 (Mercato di riferimento)
+Art. 7 (Processo di approvazione del prodotto)
+Art. 8 (Test del prodotto)
+Art. 9 (Monitoraggio e revisione del prodotto assicurativo) Art. 10 (Flussi informativi)
+Capo III - Requisiti di governo e controllo dei prodotti assicurativi applicabili ai distributori
+Art. 11 (Meccanismi di distribuzione)
+Art. 12 (Mercato di riferimento effettivo)
+Art. 13 (Scambio informativo con i produttori)
+Art. 14 (Ruolo degli organi sociali e delle funzioni aziendali di controllo degli intermediari di
+cui al comma 2, lettera d), dell’articolo 109 del Codice)
+Art. 15 (Sistemi interni di controllo dell’attività di distribuzione assicurativa degli intermediari
+di cui al comma 2, lettere a), b) e f), dell’articolo 109 del Codice) Art. 16 (Rapporti di collaborazione)
+Capo IV - Disposizioni finali
+Art. 17 (Pubblicazione ed entrata in vigore)
+2
+
+ Allegato 1 - Politica in materia di governo e controllo dei prodotti assicurativi Capo I
+Disposizioni generali
+Art. 1 (Fonti normative)
+1. Il presente Regolamento è adottato ai sensi degli articoli 5, comma 2, 30-decies, comma 7, 121-bis, comma 2, e 191 del decreto legislativo 7 settembre 2005, n. 209 e successive modifiche e integrazioni, recante il Codice delle Assicurazioni Private.
+Art. 2 (Definizioni)
+1. Ove non diversamente specificato, ai fini del presente Regolamento valgono le definizioni dettate dal decreto legislativo 7 settembre 2005, n. 209 e successive modifiche e integrazioni. In aggiunta si intende per:
+a) “Codice”: il decreto legislativo 7 settembre 2005, n. 209, e successive modificazioni e integrazioni, recante il Codice delle Assicurazioni Private;
+b) “collaborazione orizzontale”: collaborazione tra intermediari operativi iscritti nelle sezioni A, B, D del Registro degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi di cui all’articolo 109 del decreto legislativo 7 settembre 2005, n. 209, o nell’Elenco annesso al Registro di cui all’articolo 116- quinquies del medesimo decreto, ai sensi dell’articolo 22, comma 10, del decreto legge 18 ottobre 2012, n. 179, convertito nella legge 17 dicembre 2012, n. 221;
+c) “contraente” o “cliente”: la persona fisica o giuridica in favore della quale un distributore svolge attività di distribuzione assicurativa;
+c-bis) “fattori di sostenibilità”: fattori di sostenibilità ai sensi dell’articolo 2, punto 24, del Regolamento (UE) 2019/2088;2
+d) “intermediario emittente”: nell’ambito della collaborazione orizzontale, con riferimento al prodotto distribuito, l’intermediario titolare dell’incarico di distribuzione da parte dell’impresa emittente o con la quale abbia rapporti d'affari;
+e) “intermediario produttore di fatto”: l’intermediario assicurativo che realizza prodotti assicurativi quando sussistono i presupposti e le condizioni di cui all’articolo 3 del Regolamento (UE) 2017/2358;
+f) “intermediario proponente”: nell’ambito della collaborazione orizzontale, con riferimento al prodotto distribuito, l’intermediario che entra in contatto con il contraente;
+g) “Regolamento (UE) 2017/2358”: il Regolamento Delegato (UE) 2017/2358 della Commissione del 21 settembre 2017 che integra la direttiva (UE) 2016/97 del Parlamento europeo e del Consiglio per quanto riguarda i requisiti in materia di governo e controllo del prodotto per le imprese di assicurazione e i distributori di prodotti assicurativi;
+2 Lettera inserita dall’art. 4, comma 1, del Provvedimento IVASS n. 131/2023.
+ 3
+
+ h) “soggetto che realizza prodotti assicurativi” o “produttore”: i) l’impresa di assicurazione; ii) l’intermediario produttore di fatto;
+i) “mercato di riferimento negativo”: le categorie di clienti per le cui esigenze, caratteristiche e obiettivi, il prodotto non può essere distribuito, secondo quanto previsto dall’articolo 30-decies, comma 4, del Codice.
+Art. 3
+(Ambito di applicazione)
+1. Il presente Regolamento disciplina l’elaborazione e l’attuazione dei processi di approvazione dei prodotti assicurativi nonché i relativi meccanismi di distribuzione.
+2. Le disposizioni del presente Regolamento si applicano:
+a) con specifico riferimento ai Capi II e III, alle imprese di assicurazione con sede
+legale nel territorio della Repubblica Italiana;
+b) con specifico riferimento ai Capi II e III, alle sedi secondarie nel territorio della
+Repubblica italiana di imprese di assicurazione con sede legale in uno Stato
+terzo;
+c) con specifico riferimento al Capo II, agli intermediari produttori di fatto;
+d) con specifico riferimento all’articolo 10 e al Capo III, agli intermediari assicurativi
+di cui al comma 2, lettere a), b), c), d), e) e f) dell’articolo 109 del Codice e agli intermediari con residenza o sede legale in un altro Stato membro dell’Unione europea che siano iscritti nell’Elenco annesso al Registro di cui all’articolo 116- quinques del Codice, inclusi gli addetti all’interno dei locali dell’intermediario per il quale operano, nonché alle imprese di assicurazione e relativi dipendenti, che distribuiscono prodotti assicurativi diversi dai prodotti di investimento assicurativo;
+e) con specifico riferimento all’articolo 10 e al Capo III, agli intermediari assicurativi di cui al comma 2, lettere a), b) e c) dell’articolo 109 del Codice e agli intermediari con residenza o sede legale in un altro Stato membro dell’Unione europea che siano iscritti nell’Elenco annesso al Registro di cui all’articolo 116-quinques del Codice, inclusi gli addetti all’interno dei locali dell’intermediario per il quale operano e i soggetti collaboratori di cui al comma 2, lettera e), dell’articolo 109 del Codice, nonché alle imprese di assicurazione e relativi dipendenti, che distribuiscono prodotti di investimento assicurativo.
+3. Ferma restando la responsabilità del singolo produttore sul governo e controllo dei prodotti assicurativi, quando i soggetti di cui al comma 2, lettere a) e b), appartengono a un gruppo, le disposizioni di cui all’articolo 5, commi 3 e 4, si applicano in modo proporzionato a livello di ultima società controllante italiana, secondo quanto previsto dal Regolamento IVASS n. 38 del 2018. A tal fine, l’ultima società controllante redige un’apposita politica recante le modalità di coordinamento dei processi di approvazione dei prodotti assicurativi dei produttori appartenenti al gruppo.
+4
+
+ 4. I produttori e gli intermediari rispettano gli obblighi di cui al presente Regolamento in modo appropriato e proporzionato, tenendo conto del livello di complessità di ogni prodotto assicurativo e del correlato mercato di riferimento.
+5. In coerenza con quanto previsto dall’articolo 121-ter del Codice, le disposizioni del presente Regolamento non si applicano ai prodotti assicurativi che consistono nell’assicurazione dei grandi rischi.
+Capo II
+Requisiti di governo e controllo dei prodotti assicurativi applicabili ai produttori Art. 4
+(Principi generali)
+1. I produttori elaborano e attuano un processo di approvazione per ciascun nuovo prodotto assicurativo e per ogni modifica significativa di un prodotto assicurativo esistente, prima che sia commercializzato o distribuito, in coerenza con le disposizioni dell’articolo 30-decies del Codice e degli articoli 3, 4, 5, 6, 7, 8 e 9 del Regolamento (UE) 2017/2358.
+Art. 5
+(Ruolo dell’organo amministrativo e della funzione di verifica di conformità alle norme)
+1. L'organo amministrativo delle imprese di assicurazione ha la responsabilità ultima dell’osservanza delle norme sul processo di approvazione dei prodotti assicurativi.
+2. Ai fini di cui al comma 1, l’organo amministrativo approva e rivede, almeno una volta l’anno, la politica in materia di governo e controllo dei prodotti assicurativi di cui all’articolo 4 del Regolamento (UE) 2017/2358. La politica contiene almeno gli elementi di cui l’Allegato 1.
+3. La funzione di verifica di conformità alle norme delle imprese di assicurazione monitora lo sviluppo e la revisione periodica delle procedure e delle misure di governo dei prodotti assicurativi, al fine di individuare i rischi di mancato adempimento degli obblighi previsti dalla normativa vigente, inclusa la normativa europea direttamente applicabile, anche da parte dell’intermediario produttore di fatto.
+4. La relazione della funzione di verifica della conformità alle norme di cui all’articolo 30 del Regolamento IVASS n. 38 del 2018 contiene gli elementi relativi alle verifiche e alle analisi effettuate sulla corretta definizione e sull’efficacia di tutte le fasi della procedura di approvazione e revisione di ciascun prodotto, incluse le informazioni sui prodotti assicurativi realizzati, sulla strategia di distribuzione, nonché sull’attività di distribuzione diretta svolta dall’impresa, evidenziando eventuali criticità.
+5. Le imprese di assicurazione mettono a disposizione dell’IVASS, su richiesta di quest’ultima, la politica di cui al comma 2, gli elementi di cui al comma 4, nonché la
+5
+
+ documentazione relativa al processo di approvazione di ciascun prodotto di cui all’articolo 30-decies, comma 3, del Codice.
+6. Nel caso degli intermediari produttori di fatto:
+a) l’organo amministrativo o il corrispondente organo dell’intermediario è
+responsabile del processo di approvazione dei prodotti assicurativi e applica la
+politica definita dall’impresa di assicurazione ai sensi del comma 2;
+b) l’intermediario monitora lo sviluppo e la revisione periodica delle procedure di governo dei prodotti assicurativi per le finalità di cui al comma 3 e fornisce all’impresa di assicurazione gli elementi necessari a redigere la relazione di cui
+al comma 4.
+Art. 6 (Mercato di riferimento)
+1. In coerenza con quanto previsto dagli articoli 4, paragrafo 3, lettera a), punto i) e3 5, paragrafo 1, del Regolamento (UE) 2017/2358, nella definizione del mercato di riferimento con sufficiente grado di dettaglio i produttori considerano, ove appropriati, almeno i seguenti elementi:
+a) le tipologie di clienti cui è rivolto il prodotto;
+b) i rischi cui sono esposte le tipologie di clienti cui è rivolto il prodotto;
+c) le esigenze e gli obiettivi dei clienti cui è rivolto il prodotto, compresi gli eventuali
+obiettivi legati alla sostenibilità4;
+d) le caratteristiche del prodotto, con particolare riferimento alle garanzie e alle
+esclusioni e limitazioni delle garanzie;
+e) in relazione alla complessità del prodotto, il livello di conoscenza del cliente;
+f) l’età del cliente, il profilo occupazionale e la sua situazione familiare;
+f-bis) che, ove pertinente, i fattori di sostenibilità del prodotto siano coerenti con il
+mercato di riferimento.5
+2. Ai fini di cui al comma 1, con riferimento ai prodotti d’investimento assicurativi, i produttori considerano anche la conoscenza teorica e l'esperienza pregressa rispetto a tali prodotti e ai mercati finanziari e assicurativi, nonché alle esigenze, alle caratteristiche e agli obiettivi dei clienti.
+3. Con riferimento ai prodotti d’investimento assicurativi, i produttori stabiliscono se un prodotto risponde alle esigenze, alle caratteristiche e agli obiettivi del mercato di riferimento, esaminando, inoltre, i seguenti elementi:
+a) la coerenza del profilo di rischio/rendimento del prodotto con il mercato di riferimento;
+b) la rispondenza del prodotto all’interesse del cliente, prestando attenzione a eventuali conflitti determinati da un modello di business redditizio per il produttore e svantaggioso per il cliente;
+c) la situazione finanziaria del cliente, inclusa la capacità di sostenere perdite.
+3 Comma modificato dall’art. 4, comma 2, lett.a), del Provvedimento IVASS n. 131/2023. 4 Lettera modificata dall’art. 4, comma 2, lett.b), del Provvedimento IVASS n. 131/2023. 5 Lettera inserita dall’art. 4, comma 2, lett.c), del Provvedimento IVASS n. 131/2023.
+ 6
+
+ 4. Sulla base degli elementi di cui ai commi precedenti, i produttori individuano anche i clienti che rientrano nel mercato di riferimento negativo, secondo quanto previsto dall’articolo 30-decies, comma 4, del Codice, considerando, a tal fine, anche le esclusioni e limitazioni delle garanzie del prodotto assicurativo, nonché tenendo conto degli obblighi a contrarre previsti dalla normativa. In coerenza con l’articolo 5, paragrafo 2, del Regolamento (UE) 2017/2358, con riferimento ai soli fattori di sostenibilità, i produttori non sono tenuti ad effettuare l’individuazione di cui al presente comma per i prodotti che considerano fattori di sostenibilità.6
+5. I produttori adottano ogni misura ragionevole e procedure organizzative adeguate per assicurare che:
+a) il prodotto assicurativo sia distribuito, anche quando la distribuzione è effettuata mediante i soggetti di cui all’articolo 107, comma 4, del Codice, ai clienti all’interno del mercato di riferimento individuato e non sia distribuito a clienti che rientrano nel mercato di riferimento negativo;
+b) fatto salvo quanto previsto dalla lettera c), l’eventuale distribuzione a clienti che non rientrano nel mercato di riferimento individuato sia realizzata a condizione che il cliente non appartenga al mercato di riferimento negativo e il prodotto corrisponda alle richieste e alle esigenze assicurative del cliente e, sulla base della consulenza fornita prima della conclusione del contratto, sia adeguato.
+c) con riferimento ai prodotti d’investimento assicurativi non complessi di cui all’articolo 16 del Regolamento (UE) 2017/2359, l’eventuale distribuzione a clienti che non rientrano nel mercato di riferimento individuato sia realizzata a condizione che il cliente non appartenga al mercato di riferimento negativo e il prodotto corrisponda alle richieste e alle esigenze assicurative del cliente e sia adeguato o appropriato.
+6. Nell’ambito dell’attività di cui all’articolo 8, paragrafo 4 del Regolamento (UE) 2017/2358, i produttori verificano periodicamente il rispetto da parte dei distributori degli obblighi previsti dal comma 5. Nel caso di collaborazione orizzontale, le verifiche sono svolte nei confronti dell’intermediario emittente e hanno ad oggetto anche il rispetto degli obblighi previsti dal comma 5 da parte degli intermediari proponenti. Nel caso in cui la verifica abbia dato esito negativo, si applica l’articolo 8, par. 5, del Regolamento (UE) 2017/2358.
+7. I produttori verificano che il mercato di riferimento effettivo e il mercato di riferimento negativo effettivo individuati dal distributore siano coerenti con il mercato di riferimento e con il mercato di riferimento negativo individuati ai sensi del presente articolo. Nel caso in cui la verifica ha esito negativo, adottano ogni misura necessaria per assicurare tale coerenza.
+Art. 7
+(Processo di approvazione del prodotto)
+6 Comma modificato dall’art. 4, comma 2, lett.d), del Provvedimento IVASS n. 131/2023.
+ 7
+
+ 1. In coerenza con l’articolo 4 del Regolamento (UE) 2017/2358, i produttori istituiscono, attuano e mantengono procedure e misure idonee a garantire che la realizzazione di prodotti assicurativi rispetti gli obblighi in materia di conflitto di interessi, anche per quanto riguarda i sistemi di remunerazione e incentivazione.
+2. Fermo restando quanto previsto dall’articolo 8, paragrafi 2 e 3, del Regolamento (UE) 2017/2358 e dall’articolo 30-novies del Codice, prima di decidere se procedere alla commercializzazione di un prodotto assicurativo, i produttori:
+a) valutano l’adeguatezza dei singoli canali di vendita in relazione al mercato di riferimento e alla complessità del prodotto;
+b) individuano istruzioni relative all’attività di distribuzione assicurativa.
+Articolo 8 (Test del prodotto)
+1. In coerenza con l’articolo 6 del Regolamento (UE) 2017/2358 e fermi restando gli obblighi informativi previsti dal Codice e dalle disposizioni di attuazione, i produttori valutano i costi e gli oneri da applicare al prodotto assicurativo, esaminando tra l'altro i seguenti elementi:
+a) che l’ammontare dei costi e degli oneri sia compatibile con le esigenze, gli obiettivi e le caratteristiche del mercato di riferimento, ivi compresi gli eventuali obiettivi legati alla sostenibilità,7 e tale da consentire un adeguato valore per il cliente;
+b) che la struttura dei costi e degli oneri sia adeguatamente trasparente per il mercato di riferimento, non occulti i costi e gli oneri e non risulti troppo complessa da comprendere.
+2. Con specifico riferimento ai prodotti di investimento assicurativi i produttori valutano, inoltre:
+a) che i costi e gli oneri non compromettano le aspettative di rendimento del prodotto di investimento assicurativo;
+b) se il prodotto di investimento assicurativo possa rappresentare una minaccia per il buon funzionamento o per la stabilità dei mercati finanziari e del mercato assicurativo o per la tutela degli assicurati o per l’integrità e l’ordinato funzionamento dei mercati.
+3. I produttori svolgono, ove rilevante in base alle caratteristiche del prodotto, un’analisi di scenario per valutare il rischio che il prodotto di investimento assicurativo produca risultati negativi per i clienti finali e in quali circostanze ciò può accadere. A tal fine, il prodotto di investimento assicurativo viene valutato almeno alla luce delle seguenti circostanze negative:
+a) un deterioramento del contesto di mercato;
+b) le difficoltà finanziarie del produttore o dei soggetti terzi coinvolti nella
+realizzazione e/o nel funzionamento del prodotto di investimento assicurativo o il verificarsi di un altro rischio di controparte;
+7 Lettera modificata dall’art. 4, comma 3, del Provvedimento IVASS n. 131/2023.
+ 8
+
+ c) la non sostenibilità del prodotto di investimento assicurativo sul piano commerciale.
+Articolo 9
+(Monitoraggio e revisione del prodotto assicurativo)
+1. L’attività di monitoraggio nel continuo e di revisione regolare del prodotto di cui all’articolo 7, del Regolamento (UE) 2017/2358:
+a) include la verifica della correttezza delle valutazioni effettuate prima della commercializzazione del prodotto ai sensi degli articoli 7 e 8;
+b) include la verifica sui canali di vendita al fine di valutarne la congruità, in particolare con riferimento alla vendita non effettuata in coerenza con quanto previsto ai sensi dall’articolo 6 e agli altri rischi collegati all’attività di distribuzione;
+c) comprende anche la distribuzione effettuata mediante i soggetti di cui all’articolo 107, comma 4, del Codice;
+d) esamina anche il numero e la tipologia di reclami presentati.
+2. Nel processo di monitoraggio e revisione dei prodotti assicurativi immessi sul mercato effettuato ai sensi dell’articolo 7 del Regolamento (UE) 2017/2358, i produttori, con specifico riferimento ai prodotti di investimento assicurativi, identificano, altresì, gli eventi cruciali in grado di incidere sul rischio potenziale o sulle aspettative di rendimento del prodotto, in particolare i livelli di rendimento del prodotto assicurativo tali da rendere necessaria una revisione del prodotto, tenuto conto delle aspettative di rendimento dei clienti.
+3. In esito all’attività di monitoraggio e revisione del prodotto di cui all’articolo 7, del Regolamento (UE) 2017/2358, i produttori adottano misure appropriate e correttive, consistenti, tra l’altro:
+a) nella fornitura ai clienti e ai distributori di adeguate informazioni sugli eventi cruciali identificati, sui relativi effetti sul prodotto assicurativo e sulle misure correttive adottate;
+b) nella revisione del processo di approvazione del prodotto assicurativo;
+c) nella sospensione o interruzione dell’emissione di ulteriori contratti relativi al
+prodotto assicurativo;
+d) nella modifica del prodotto assicurativo;
+e) nel contattare l’intermediario per valutare modifiche riguardanti il processo di
+distribuzione;
+f) nei casi di maggiore gravità, nell’interruzione del rapporto di distribuzione con
+l’intermediario.
+4. I produttori informano prontamente l’IVASS nel caso in cui gli esiti del processo di revisione determinino l’adozione delle misure di cui al comma 3.
+Art. 10 (Flussi informativi)
+9
+
+ 1. Ai fini del pieno rispetto degli obblighi di cui al Regolamento (UE) 2017/2358 e al presente Regolamento, le imprese di assicurazione e i distributori identificano tramite accordo la direzione, il contenuto, la periodicità, le modalità di scambio delle informazioni relative allo svolgimento delle rispettive attività e necessarie per adempiere ai rispettivi obblighi.
+2. L’identificazione dei flussi informativi di cui al comma 1:
+a) è finalizzata a guidare il distributore nella conoscenza del prodotto e ad
+assicurare che la distribuzione sia rivolta a clienti appartenenti al mercato di
+riferimento di cui all’articolo 6;
+b) è finalizzata a favorire l’adempimento da parte del distributore dell’obbligo di cui
+all’articolo 11 del Regolamento (UE) 2017/2358;
+c) è soggetta a revisione periodica;
+d) favorisce l’esercizio dell’azione di vigilanza sul pieno rispetto degli obblighi di cui
+al Regolamento (UE) 2017/2358 e al presente Regolamento da parte delle Autorità di vigilanza competenti.
+3. In presenza di un intermediario produttore di fatto, l’identificazione di cui ai commi 1 e 2 è effettuata dall’impresa di assicurazione congiuntamente con l’intermediario produttore di fatto.
+Capo III
+Requisiti di governo e controllo dei prodotti assicurativi applicabili ai distributori
+Art. 11 (Meccanismi di distribuzione)
+1. Fatto salvo quanto previsto dall’articolo 10 del Regolamento (UE) 2017/2358, i distributori conoscono i prodotti distribuiti, valutano la compatibilità con le esigenze e le richieste del cliente, distribuiscono il prodotto ai clienti rientranti nel mercato di riferimento individuato dal produttore ai sensi dell’articolo 6, e fanno in modo che i prodotti siano distribuiti solo quando ciò sia nell’interesse del cliente, tenuto anche conto degli eventuali obiettivi di sostenibilità di quest’ultimo,8 anche quando la distribuzione è effettuata mediante i soggetti di cui all’articolo 107, comma 4, del Codice.
+2. Prima della sottoscrizione del contratto, i distributori acquisiscono dal contraente e, con riferimento alle polizze collettive, dall’aderente nelle modalità e nei limiti previsti dall’articolo 66 del Regolamento IVASS n. 40 del 2018, tutte le informazioni necessarie per valutarne l’appartenenza al mercato di riferimento o al mercato di riferimento negativo individuati dal produttore ai sensi dell’articolo 6.
+8 Comma modificato dall’art. 4, comma 4, lett. a), del Provvedimento IVASS n. 131/2023.
+ 10
+
+ 3. Ai fini di cui all’articolo 11, del Regolamento (UE) 2017/2358, il distributore adotta procedure idonee a individuare il momento in cui il prodotto non risponda più agli interessi, agli obiettivi, compresi eventualmente quelli legati alla sostenibilità,9 e alle caratteristiche del mercato di riferimento individuato dal produttore ai sensi dell’articolo 6, nonché alle altre circostanze relative al prodotto che aggravino il rischio di pregiudizio per il cliente. A tal fine effettua verifiche periodicamente, anche con riferimento alla distribuzione effettuata mediante i soggetti di cui all’articolo 107, comma 4, del Codice.
+4. Fermi restando gli obblighi di verifica e di monitoraggio del produttore previsti dall’articolo 9 e dell’articolo 8, paragrafo 4, del Regolamento (UE) 2017/2358 i distributori:
+a) b)
+c)
+non distribuiscono prodotti assicurativi ai clienti che appartengono al mercato di riferimento negativo individuato dal produttore;
+fatto salvo quanto previsto dalla lettera c), possono distribuire prodotti assicurativi a clienti che non rientrano nel mercato di riferimento individuato dal produttore, purché i clienti non appartengano al mercato di riferimento negativo e tali prodotti corrispondano alle richieste e alle esigenze assicurative di quei clienti e, sulla base della consulenza fornita prima della conclusione del contratto, siano adeguati.;
+possono distribuire prodotti d’investimento assicurativi non complessi di cui all’articolo 16 del Regolamento (UE) 2017/2359 a clienti che non rientrano nel mercato di riferimento individuato dal produttore, purché i clienti non appartengano al mercato di riferimento negativo e tali prodotti corrispondano alle richieste e alle esigenze assicurative di quei clienti e siano adeguati o appropriati.
+5. Fermi restando gli obblighi informativi precontrattuali, gli intermediari quando distribuiscono un prodotto assicurativo a clienti che non appartengono al mercato di riferimento comunicano al produttore se il prodotto assicurativo è distribuito al di fuori del mercato di riferimento ai sensi del comma 4, lettere b) e c).
+6. Gli intermediari che distribuiscono prodotti commercializzati da imprese di assicurazione con sede legale in uno Stato membro operanti in regime di stabilimento o di libera prestazione di servizi nel territorio della Repubblica italiana adottano tutti i presidi necessari per garantire che i prodotti assicurativi siano distribuiti in conformità al presente regolamento, siano conformi alle norme europee ed italiane e rispondano alle esigenze, alle caratteristiche e agli obiettivi, compresi eventualmente quelli legati alla sostenibilità,10 del mercato di riferimento effettivo individuato.
+Art. 12
+(Mercato di riferimento effettivo)
+1. Gli intermediari adottano adeguate misure e procedure per assicurare che i prodotti assicurativi che intendono distribuire siano coerenti con le esigenze, le caratteristiche e
+9 Comma modificato dall’art. 4, comma 4, lett. b), del Provvedimento IVASS n. 131/2023. 10 Comma modificato dall’art. 4, comma 4, lett. c), del Provvedimento IVASS n. 131/2023.
+ 11
+
+ gli obiettivi, compresi eventualmente quelli legati alla sostenibilità,11 del mercato di riferimento e che la strategia di distribuzione prevista sia coerente con tale mercato, oltre che con la strategia distributiva individuata dall’impresa di assicurazione.
+2. Gli intermediari identificano e valutano in modo appropriato la situazione e le esigenze dei clienti, al fine di garantire che gli interessi di questi ultimi non siano compromessi da pressioni commerciali ovvero da interessi dell’intermediario.
+3. Gli intermediari individuano le ulteriori categorie di clienti ai quali il prodotto non può essere distribuito (mercato di riferimento negativo effettivo). Con riferimento ai soli fattori di sostenibilità, gli intermediari non sono tenuti ad effettuare l’individuazione di cui al presente comma per i prodotti che considerano i fattori di sostenibilità.12
+4. Il mercato di riferimento effettivo di cui al comma 1 e il mercato di riferimento negativo effettivo di cui al comma 3 sono una specificazione del mercato di riferimento e una estensione del mercato di riferimento negativo individuati dal produttore.
+5. Il mercato di riferimento effettivo di cui al comma 1 e il mercato di riferimento negativo effettivo di cui al comma 3 sono comunicati all’impresa di assicurazione, prima della relativa distribuzione.
+6. Gli intermediari riesaminano regolarmente i prodotti assicurativi distribuiti tenendo conto di qualsiasi evento che possa incidere significativamente sui rischi potenziali per il mercato di riferimento nonché della eventuale revisione del prodotto effettuata dal produttore, al fine di valutare almeno se il prodotto assicurativo resti coerente con le esigenze del mercato di riferimento effettivo di cui al comma 1 e se la prevista strategia distributiva continui a essere appropriata. A tal fine, effettuano verifiche regolari anche con riferimento alla distribuzione effettuata mediante i soggetti di cui all’articolo 107, comma 4, del Codice.
+7. Gli intermediari, anche a seguito delle indicazioni e valutazioni ricevute dal produttore, riconsiderano il mercato di riferimento effettivo e/o aggiornano le procedure e le misure adottate qualora rilevino di aver erroneamente identificato il mercato di riferimento effettivo per un prodotto assicurativo ovvero qualora il prodotto assicurativo non soddisfi più le condizioni del mercato di riferimento effettivo.
+8. Gli intermediari comunicano al produttore l’eventuale individuazione di un nuovo mercato di riferimento effettivo in esito alla riconsiderazione di cui al comma 7.
+9. A seguito delle valutazioni di cui ai commi 1, 2 e 3, il mercato di riferimento effettivo e il mercato di riferimento negativo effettivo possono coincidere con il mercato di riferimento e il mercato di riferimento negativo individuati dal produttore. In tal caso non si applicano i commi 6 e 8.
+10. In caso di collaborazione orizzontale, ciascun intermediario, tenuto conto della rispettiva clientela, definisce il proprio mercato di riferimento effettivo di cui ai commi 1 e 2 e il
+11 Comma modificato dall’art. 4, comma 5, lett. a), del Provvedimento IVASS n. 131/2023. 12 Comma modificato dall’art. 4, comma 5, lett. b), del Provvedimento IVASS n. 131/2023.
+ 12
+
+ mercato di riferimento negativo effettivo di cui al comma 3, secondo quanto previsto dal comma 4.
+11. Il presente articolo non si applica all’intermediario di cui al comma 1 qualificabile come intermediario produttore di fatto.
+Art. 13
+(Scambio informativo con i produttori)
+1. Nell’ambito dell’accordo relativo all’identificazione dei flussi informativi di cui all’articolo 10, i distributori acquisiscono dai produttori le informazioni necessarie per comprendere e conoscere adeguatamente i prodotti che intendono distribuire, al fine di garantire che gli stessi siano distribuiti conformemente alle esigenze, alle caratteristiche e agli obiettivi del mercato di riferimento individuato ai sensi dell’articolo 6, tenuto conto anche degli eventuali obiettivi di sostenibilità.13
+2. I distributori utilizzano le informazioni ottenute ai sensi del comma 1, nonché quelle relative ai propri clienti, al fine di identificare la strategia di distribuzione, nonché, per gli intermediari di cui al comma 2, lettera d), dell’articolo 109, del Codice, anche al fine di identificare il mercato di riferimento effettivo di cui all’articolo 12.
+Art. 14
+(Ruolo degli organi sociali e delle funzioni aziendali di controllo degli intermediari di cui al comma 2, lettera d), dell’articolo 109 del Codice)
+1. L'organo amministrativo degli intermediari di cui al comma 2, lettera d), dell’articolo 109 del Codice, ha la responsabilità ultima dell’osservanza delle norme sui meccanismi di distribuzione e sulla definizione del mercato di riferimento effettivo e approva il documento scritto sui meccanismi di distribuzione di cui all’articolo 10 del Regolamento (UE) 2017/2358.
+2. La funzione di controllo di conformità alle norme degli intermediari di cui al comma 1 monitora lo sviluppo e la revisione periodica delle procedure e delle misure adottate per la distribuzione dei prodotti assicurativi, al fine di individuare i rischi di mancato adempimento degli obblighi previsti dal Capo III del Regolamento (UE) 2017/2358 e dal presente Regolamento.
+3. La funzione di controllo di conformità alle norme degli intermediari di cui al comma 1 redige annualmente una relazione relativa alle verifiche effettuate sulla corretta definizione del mercato di riferimento effettivo e della strategia di distribuzione, nonché sulla correttezza ed efficacia dei meccanismi di distribuzione, evidenziando eventuali criticità.
+13 Comma modificato dall’art. 4, comma 6, del Provvedimento IVASS n. 131/2023.
+ 13
+
+ 4. Gli intermediari di cui al comma 1 mettono a disposizione dell’IVASS, su richiesta di quest’ultimo, il documento scritto sui meccanismi di distribuzione di cui all’articolo 10 del Regolamento (UE) 2017/2358 e la relazione di cui al comma 3.
+5. Gli intermediari di cui al comma 1 garantiscono che il personale e i collaboratori siano in possesso delle competenze necessarie per comprendere le caratteristiche e i rischi dei prodotti assicurativi che intendono distribuire, compresi gli eventuali fattori di sostenibilità,14 nonché le esigenze, le caratteristiche e gli obiettivi, compresi eventualmente quelli legati alla sostenibilità,15 del mercato di riferimento.
+Art. 15
+(Sistemi interni di controllo dell’attività di distribuzione assicurativa degli intermediari di cui al comma 2, lettere a) b) e f), dell’articolo 109 del Codice)
+1. Gli intermediari di cui all’articolo 109, comma 2, lettere a), b) e f), del Codice:
+a) monitorano i rischi di mancato adempimento degli obblighi previsti dall’articolo 121-bis del Codice, dal Capo III del Regolamento (UE) 2017/2358 e dal presente Regolamento, ivi compresa la verifica della correttezza ed efficacia dei meccanismi distributivi definiti dal documento scritto di cui dell’articolo 10, del
+medesimo Regolamento;
+b) evidenziano eventuali criticità derivanti dal monitoraggio di cui alla lettera a);
+c) assicurano la completezza dei flussi informativi previsti dalla normativa.
+2. Gli intermediari di cui al comma 1 mettono a disposizione dell’IVASS, su richiesta di quest’ultimo, il documento scritto sui meccanismi di distribuzione di cui all’articolo 10 del Regolamento (UE) 2017/2358 e la documentazione relativa alle verifiche di cui al comma 1.
+3. Negli intermediari di cui al comma 1, l'unità o la struttura di cui all’articolo 10, paragrafo 5, del Regolamento (UE) 2017/2358 ha caratteristiche coerenti con la dimensione dell’intermediario e la complessità dell’attività svolta.
+Art. 16
+(Rapporti di collaborazione)
+1. Gli intermediari di cui al comma 2, lettere a), b), d) e f), dell’articolo 109 del Codice:
+a)
+b)
+forniscono agli intermediari di cui al comma 2, lettera e), dell’articolo 109 del Codice le informazioni relative al mercato di riferimento e alla strategia distributiva adottata dal produttore o dall’intermediario che ha conferito l’incarico di collaborazione;
+individuano le modalità di ricezione delle informazioni acquisite dagli addetti all’attività di intermediazione di cui al comma 2, lettera e), dell’articolo 109 del Codice o operanti all’interno dei locali di cui gli intermediari si avvalgono;
+ 14 Parole inserite dall’art. 4, comma 7, lett. a) del Provvedimento IVASS n. 131/2023. 15 Parole inserite dall’art. 4, comma 7, lett. b), del Provvedimento IVASS n. 131/2023.
+14
+
+ c) verificano che l’attività di distribuzione effettuata dagli intermediari di cui al comma 2, lettera e), dell’articolo 109 del Codice sia coerente con il mercato di riferimento e con la strategia di distribuzione adottata dal produttore e dall’intermediario che ha conferito l’incarico di collaborazione.
+2. Gli intermediari effettuano le attività di cui al comma 1 quando distribuiscono i prodotti assicurativi tramite gli addetti operanti all’interno dei locali dell’intermediario medesimo.
+3. Le imprese di assicurazione effettuano le attività di cui al comma 1 quando distribuiscono i propri prodotti assicurativi tramite gli intermediari di cui al comma 2, lettera c), dell’articolo 109 del Codice.
+4. Gli intermediari operativi di cui al comma 2, lettere a), b) e d), dell’articolo 109 del Codice che svolgono attività di collaborazione orizzontale sono congiuntamente responsabili per la violazione degli obblighi previsti dal Capo III del Regolamento (UE) 2017/2358.
+5. In caso di collaborazione orizzontale, gli intermediari assicurano che:
+a) le informazioni relative ai prodotti assicurativi ricevute dal produttore siano
+trasmesse dall’intermediario emittente all’intermediario proponente;
+b) le definizioni del mercato di riferimento effettivo e del mercato di riferimento negativo effettivo di cui all’articolo 12 siano comunicate prima della relativa
+distribuzione:
+1) dall’intermediario emittente all’intermediario proponente; 2) dall’intermediario proponente all’intermediario emittente; 3) dall’intermediario emittente all’impresa di assicurazione;
+c) il produttore possa ottenere le informazioni sulla distribuzione dei prodotti assicurativi necessarie ad adempiere agli obblighi previsti dal Regolamento (UE) 2017/2358 e dal presente regolamento, con particolare riferimento alle vendite ai clienti che non appartengono al mercato di riferimento.
+Capo IV Disposizioni finali
+Art. 17 (Pubblicazione ed entrata in vigore)
+1. II presente Regolamento è pubblicato nella Gazzetta Ufficiale della Repubblica italiana, nel Bollettino e sul sito internet dell'IVASS ed entra in vigore il 31 marzo 2021.
+Per il Direttorio Integrato
+Il Governatore della Banca d’Italia
+15
+
+ Allegato 1
+Politica in materia di governo e controllo dei prodotti assicurativi
+La politica in materia di governo e controllo dei prodotti assicurativi illustra con chiarezza almeno:
+- gli obiettivi della politica;
+- i compiti da svolgere e il responsabile di tali compiti;
+- i processi e le procedure di segnalazione da utilizzare, anche con riferimento ai flussi informativi con il distributore;
+- l’obbligo delle unità organizzative interessate di comunicare alle funzioni fondamentali, per gli aspetti di rispettiva competenza, qualsiasi fatto rilevante per l’adempimento dei rispettivi doveri.
+Di seguito vengono indicati i contenuti minimali richiesti nella politica in materia di governo e controllo dei prodotti assicurativi, da definirsi con un livello di dettaglio adeguato alla natura, alla portata e alla complessità dell’attività aziendale e proporzionato alla complessità dei prodotti realizzati dall’Impresa:
+a) gli obiettivi della politica, con particolare riferimento a:
+1) l’individuazione di adeguati presidi nelle fasi di progettazione, controllo, revisione,
+distribuzione e monitoraggio nel continuo dei prodotti, al fine di tutelare gli interessi
+dei clienti;
+2) l’individuazione delle modalità per gestire correttamente i conflitti di interesse che
+possono insorgere nella fase di progettazione del prodotto o sopravvenire nel corso dell’intera vita dello stesso, inclusi quelli che si possono generare nella fase di distribuzione del prodotto tra produttore e distributore, anche con riferimento al sistema remunerativo ed incentivante riconosciuto al distributore;
+3) la definizione dei presidi di produzione e conservazione della documentazione relativa al processo di approvazione dei prodotti assicurativi;
+4) laprevisionediadeguateazionidirimedionelcasodiprodottisuscettibilidiarrecare pregiudizio ai clienti.
+b) la definizione di presidi organizzativi interni nonché dei ruoli e delle responsabilità degli organi e delle funzioni aziendali in grado di assicurare la corretta gestione del processo di approvazione dei prodotti assicurativi e l’attività distributiva, anche nel caso di attività affidate in regime di esternalizzazione;
+c) la definizione delle direttive e dei criteri per il presidio delle singole fasi del processo di approvazione dei prodotti assicurativi, in grado di assicurare l’identificazione di un adeguato livello di dettaglio del mercato di riferimento di ciascun prodotto, anche attraverso adeguati test in funzione della tipologia, natura e livello di rischio del prodotto, compresi gli eventuali fattori di sostenibilità16;
+d) i requisiti di un corretto governo e controllo dei prodotti, siano essi nuovi ovvero oggetto di revisione. Tali requisiti sono adeguati e proporzionati alle caratteristiche, rischiosità e dimensione del business e ai canali distributivi dell’impresa nonché tesi a perseguire gli interessi della clientela e prevedono:
+16 Lettera modificata dall’art. 4, comma 8, lett. a) del Provvedimento IVASS n. 131/2023.
+   16
+
+ 1) l’identificazione e revisione nel continuo del mercato di riferimento e del mercato di riferimento negativo;
+2) lo sviluppo e l’offerta di prodotti coerenti con le esigenze dei rispettivi mercati di riferimento;
+3) l’attività di monitoraggio finalizzata a comprendere e riesaminare regolarmente i prodotti distribuiti, al fine di valutare se gli stessi siano rimasti coerenti con i bisogni, gli obiettivi, ivi compresi eventualmente quelli legati alla sostenibilità,17 e le caratteristiche del mercato di riferimento e se la propria strategia distributiva permanga adeguata;
+4) la verifica periodica della corretta implementazione, efficacia e adeguatezza dei processi adottati, con l’adozione di strumenti di controllo idonei a consentire l’identificazione delle principali fonti di rischio di condotte non corrette e dei correttivi ritenuti necessari;
+5) i criteri per esaminare il numero e la tipologia di reclami presentati.
+e) la descrizione dei criteri e delle analisi in base ai quali l’impresa seleziona i distributori dei propri prodotti, valuta gli assetti organizzativi degli stessi e la loro coerenza con le caratteristiche dei prodotti e dei relativi mercati di riferimento;
+f) l’indicazione delle istruzioni relative all’attività di distribuzione e dei canali di comunicazione per guidare il distributore nella conoscenza del prodotto e per assicurare che:
+1) ladistribuzionesiarivoltaalmercatodiriferimentoindividuatodall’impresaenonalle categorie di clienti che rientrano nel mercato di riferimento negativo;
+2) l’eventuale distribuzione a clienti che non rientrano nel mercato di riferimento sia realizzata a condizione che il cliente non appartenga al mercato di riferimento negativo e il prodotto corrisponda alle richieste e alle esigenze assicurative del cliente e, sulla base della consulenza fornita prima della conclusione del contratto, sia adeguato;
+g) l’individuazione dei flussi informativi tra strutture e funzioni interne all’impresa nonché tra produttore e distributore;
+h) in coerenza con le politiche di remunerazione adottate dall’impresa, l’indicazione dei criteri e dei principi sulla base dei quali l’impresa:
+1) remunera ed offre un compenso al distributore in misura e con modalità tali da non pregiudicare l’obbligo dello stesso di agire nel migliore interesse dei clienti;
+2) valuta se gli incentivi corrisposti o percepiti dal distributore abbiano ripercussioni negative sulla qualità del servizio offerto ai clienti.
+i) l’indicazione delle misure da adottare nel continuo per:
+1) assicurare necessaria formazione e sviluppo professionale del personale interno
+impegnato nella progettazione, nel controllo e nella distribuzione dei prodotti offerti, ivi compresi i prodotti che considerano i fattori di sostenibilità18 (inclusi i soggetti responsabili dell’attività di distribuzione e ogni altra persona che partecipi direttamente a tale attività);
+17 Parole inserite dall’art. 4, comma 8, lett. b) del Provvedimento IVASS n. 131/2023. 18 Parole inserite dall’art. 4, comma 8, lett. c) del Provvedimento IVASS n. 131/2023.
+ 17
+
+ 2) promuovere all’interno dell’impresa la diffusione di una cultura di business orientata alla tutela del consumatore;
+l) l’indicazionedeicontrolliedellemisurepermonitorarecheidistributorideipropriprodotti agiscano in conformità agli obiettivi individuati dalla propria politica e che:
+1) l’attivitàdidistribuzionesiarivoltaalmercatodiriferimentoindividuatodall’impresae non alle categorie di clienti che rientrano nel mercato di riferimento negativo;
+2) l’eventuale distribuzione a clienti che non rientrano nel mercato di riferimento sia realizzata a condizione che il cliente non appartenga al mercato di riferimento negativo e il prodotto corrisponda alle richieste e alle esigenze assicurative del cliente e, sulla base della consulenza fornita prima della conclusione del contratto, sia adeguato;
+3) l’eventuale distribuzione prodotti d’investimento assicurativi non complessi di cui all’articolo 16 del Regolamento (UE) 2017/2359 a clienti che non rientrano nel mercato di riferimento individuato dal produttore, sia realizzata purché i clienti non appartengano al mercato di riferimento negativo e tali prodotti corrispondano alle richieste e alle esigenze assicurative di quei clienti e siano adeguati o appropriati.
+m) l’indicazione delle modalità e dei criteri in base ai quali la politica in materia di governo e controllo dei prodotti è rivista con l’obiettivo di garantire, nel continuo, la sua conformità alla normativa vigente e la sua coerenza con la struttura organizzativa dell’impresa, la strategia commerciale e distributiva, le aree di attività.
+18

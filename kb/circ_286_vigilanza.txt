@@ -1,0 +1,587 @@
+ISTRUZIONI PER LA COMPILAZIONE DELLE SEGNALAZIONI PRUDENZIALI PER I SOGGETTI VIGILATI Disposizioni di carattere generale
+DISPOSIZIONI DI CARATTERE GENERALE
+La presente Circolare contiene istruzioni per la compilazione delle segnalazioni prudenziali su base individuale e consolidata, richieste ai sensi del T.U.B. e del T.U.F., di banche, gruppi bancari, succursali di banche di Stati terzi, succursali di imprese di paesi terzi diverse dalle banche, Bancoposta, intermediari finanziari e gruppi di intermediari finanziari, IP e IMEL e gestori(1).
+In particolare, per le sole banche e gruppi bancari, sono richieste informazioni in materia di parti correlate (Sez. I e II).
+È prevista un’apposita sezione (Sez. IV) per le segnalazioni prudenziali di Banco Posta.
+Per gli intermediari finanziari di cui all’art. 106 TUB, in linea con l’approccio adottato per la normativa prudenziale (cfr. “Disposizioni di vigilanza per gli intermediari finanziari”), gli schemi segnaletici sono allineati, nel rispetto del principio di proporzionalità, a quelli delle banche (Sez. V). A questo fine, gli schemi segnaletici sono disciplinati mediante rinvio al Regolamento di esecuzione della Commissione (di seguito “Regolamento della Commissione”) n. 2021/451 che stabilisce le norme tecniche di attuazione in materia di segnalazioni di vigilanza degli enti ai sensi del Regolamento (UE) n. 575/2013 del Parlamento europeo e del Consiglio, salvo quando diversamente specificato nella presente Circolare.
+Gli obblighi informativi per gli IP e IMEL puri (a livello individuale) e per gli ibridi non finanziari, nonché per gli IP e IMEL a operatività limitata sono definiti in un'apposita sezione (Sez. VI).
+Inoltre, è prevista una sezione per le segnalazioni prudenziali dei gestori (Sez. VII). Infine, è prevista una sezione per le segnalazioni delle banche che emettono obbligazioni
+bancarie garantite.
+Le responsabilità per la correttezza del calcolo patrimoniale e delle relative segnalazioni alla Banca d’Italia nonché per l’adeguatezza delle procedure di produzione e di controllo di tali segnalazioni fanno capo agli organi aziendali ciascuno per quanto di propria competenza.
+Al fine di assicurare la necessaria coerenza dei dati segnalati con le risultanze della contabilità aziendale, particolare cura va posta nella predisposizione e nell’utilizzo di appositi strumenti di controllo interno, che prevedano anche forme di visualizzazione delle informazioni per i responsabili aziendali.
+1 Le disposizioni di cui alla Parte II della presente circolare indirizzate alle banche e ai gruppi bancari non si applicano alle SIM di classe 1 e ai gruppi di SIM di classe 1, salvo ove diversamente specificato.
+    Circolare n. 286 del 17 dicembre 2013 – 15° aggiornamento del 2 novembre 2022
+
+ISTRUZIONI PER LA COMPILAZIONE DELLE SEGNALAZIONI PRUDENZIALI PER I SOGGETTI VIGILATI Disposizioni di carattere generale
+Obblighi segnaletici delle succursali italiane di banche estere e delle succursali di imprese di paesi terzi diverse dalle banche
+1. Succursali italiane di banche dell’Unione europea
+Le succursali italiane di banche dell’Unione europea sono tenute esclusivamente a inviare, su base semestrale, le informazioni in merito alle perdite su crediti ipotecari.
+2. Succursali italiane di banche di Stati terzi
+Le succursali in Italia di banche di Stati terzi non aventi sede negli Stati indicati nell’Allegato A della Circolare n. 285 (2) sono sottoposte, su base individuale, allo stesso regime segnaletico delle banche italiane non appartenenti ad un gruppo bancario a eccezione delle segnalazione relativa ai “Soggetti Collegati”.
+3. Succursali italiane di imprese di paesi terzi diverse dalle banche
+Le succursali italiane di imprese di paesi terzi diverse dalle banche sono sottoposte, su base individuale, allo stesso regime segnaletico delle società di intermediazione mobiliare (“SIM”) non appartenenti ad un gruppo di imprese di investimento. Le succursali italiane di imprese di paesi terzi soggette al regime delle SIM di classe 1 sono sottoposte allo stesso regime segnaletico applicabile alle succursali italiane di banche di Stati terzi (cfr. par. 2).
+      2 Canada, Giappone, Svizzera, Stati Uniti d'America.
+Circolare n. 286 del 17 dicembre 2013 – 15° aggiornamento del 2 novembre 2022
+
+PROGRAMMI DI EMISSIONE DI OBBLIGAZIONI BANCARIE GARANTITE
+Parte II
+Sezione: 9 – Programmi di emissione di obbligazioni bancarie garantite Sottosezione: 1 – Istruzioni di carattere generale
+ Sezione:
+9 – PROGRAMMI DI EMISSIONE DI OBBLIGAZIONI BANCARIE GARANTITE
+– 9.1.1 –
+Circolare n. 286 del 17 dicembre 2013 – 17° aggiornamento del GG MMMM 2023
+
+PROGRAMMI DI EMISSIONE DI OBBLIGAZIONI BANCARIE GARANTITE
+Parte II
+Sezione: 9 – Programmi di emissione di obbligazioni bancarie garantite Sottosezione: 1 – Istruzioni di carattere generale
+ Sottosezione:
+1 – ISTRUZIONI DI CARATTERE GENERALE
+– 9.1.2 –
+Circolare n. 286 del 17 dicembre 2013 – 17° aggiornamento del GG MMMM 2023
+
+PROGRAMMI DI EMISSIONE DI OBBLIGAZIONI BANCARIE GARANTITE
+Parte II
+Sezione: 9 – Programmi di emissione di obbligazioni bancarie garantite Sottosezione: 1 – Istruzioni di carattere generale
+1.1 AMBITO DI APPLICAZIONE
+La presente Sezione si applica su base individuale alle banche italiane autorizzate all’avvio di programmi di obbligazioni bancarie garantite ai sensi di quanto previsto dalla Circolare n. 285 del 17 dicembre 2013 “Disposizioni di vigilanza per le banche”, Parte Terza, Capitolo 3 “Obbligazioni bancarie garantite”. La presente Sezione si applica altresì anche ai programmi già in essere alla data di entrata in vigore del 42° aggiornamento della Circolare n. 285 e conformati dalla banca emittente alla nuova disciplina in materia di obbligazioni bancarie garantite in base a quanto previsto dalla Sezione VII “Disposizioni transitorie” del citato Capitolo 3 della Circolare n. 285.
+ – 9.1.3 –
+Circolare n. 286 del 17 dicembre 2013 – 17° aggiornamento del GG MMMM 2023
+
+PROGRAMMI DI EMISSIONE DI OBBLIGAZIONI BANCARIE GARANTITE
+Parte II
+Sezione: 9 – Programmi di emissione di obbligazioni bancarie garantite Sottosezione: 1 – Istruzioni di carattere generale
+1.2 SEGNALAZIONI ALLA BANCA D’ITALIA
+I dati devono essere trasmessi secondo gli schemi indicati nelle Sottosezioni 2 e 3 con le modalità definite nella circolare n. 154 del 22 novembre 1991 (“Segnalazioni di vigilanza delle istituzioni creditizie e finanziarie. Schemi di rilevazioni e istruzioni per l’inoltro dei flussi informativi”) emanata dal Servizio Rilevazioni Statistiche.
+Le segnalazioni vengono inviate con le seguenti periodicità ed entro le seguenti date di invio:
+le segnalazioni di cui alle voci da 1. a 13. vengono inviate con periodicità trimestrale, entro le medesime date previste per l’invio delle segnalazioni prudenziali armonizzate nel caso di segnalazioni con periodicità trimestrale (1). Le date contabili di riferimento sono il 31 marzo, il 30 giugno, il 30 settembre e il 31 dicembre;
+le segnalazioni di cui alla voce 14. (“Altre informazioni”) vengono inviate con periodicità annuale, entro le medesime date previste per l’invio delle segnalazioni prudenziali armonizzate nel caso di segnalazioni con periodicità annuale (2). La data contabile di riferimento è il 31 dicembre.
+Le responsabilità per la correttezza delle segnalazioni alla Banca d’Italia nonché per l’adeguatezza delle procedure di produzione e di controllo di tali segnalazioni fanno capo agli organi aziendali ciascuno per quanto di propria competenza.
+Al fine di assicurare la necessaria coerenza dei dati segnalati con le risultanze della contabilità aziendale, particolare cura va posta nella predisposizione e nell’utilizzo di appositi strumenti di controllo interno, che prevedano anche forme di visualizzazione delle informazioni per i responsabili aziendali.
+  (1) Cfr. art. 3 del regolamento di esecuzione (UE) n. 451/2021 della Commissione del 17 dicembre 2020 che stabilisce norme tecniche di attuazione per l’applicazione del regolamento (UE) n. 575/2013 per quanto riguarda le segnalazioni degli enti a fini di vigilanza.
+(2) Cfr. nota precedente.
+– 9.1.4 –
+Circolare n. 286 del 17 dicembre 2013 – 17° aggiornamento del GG MMMM 2023
+
+PROGRAMMI DI EMISSIONE DI OBBLIGAZIONI BANCARIE GARANTITE
+Parte II
+Sezione: 9 – Programmi di emissione di obbligazioni bancarie garantite Sottosezione: 1 – Istruzioni di carattere generale
+1.3 VALUTA DI SEGNALAZIONE
+Gli importi relativi alle voci della segnalazione vanno controvalorizzati in euro ai tassi di cambio a pronti correnti alla data di riferimento della segnalazione.
+ – 9.1.5 –
+Circolare n. 286 del 17 dicembre 2013 – 17° aggiornamento del GG MMMM 2023
+
+PROGRAMMI DI EMISSIONE DI OBBLIGAZIONI BANCARIE GARANTITE
+Parte II
+Sezione: 9 – Programmi di emissione di obbligazioni bancarie garantite Sottosezione: 1 – Istruzioni di carattere generale
+1.4 ARROTONDAMENTI
+I dati in euro vanno arrotondati trascurando i decimali pari o inferiori a 50 centesimi ed elevando all’unità superiore i decimali maggiori di 50 centesimi.
+ – 9.1.6 –
+Circolare n. 286 del 17 dicembre 2013 – 17° aggiornamento del GG MMMM 2023
+
+PROGRAMMI DI EMISSIONE DI OBBLIGAZIONI BANCARIE GARANTITE
+Parte II
+Sezione: 9 – Programmi di emissione di obbligazioni bancarie garantite
+Sottosezione: 2 – Schemi di segnalazione dei requisiti di copertura e liquidità e delle altre informazioni sui programmi
+  Sottosezione:
+2–SCHEMI DI SEGNALAZIONE DEI REQUISITI DI COPERTURA E LIQUIDITA’ E ALTRE INFORMAZIONI SUI PROGRAMMI
+– 9.2.1 –
+Circolare n. 286 del 17 dicembre 2013 – 17° aggiornamento del GG MMMM 2023
+
+PROGRAMMI DI EMISSIONE DI OBBLIGAZIONI BANCARIE GARANTITE
+Parte II
+Sezione: 9 – Programmi di emissione di obbligazioni bancarie garantite
+Sottosezione: 2 – Schemi di segnalazione dei requisiti di copertura e liquidità e delle altre informazioni sui programmi
+  REQUISITI DI COPERTURA
+- COMPOSIZIONE DEL PATRIMONIO SEPARATO
+   1. attivi idonei inclusi nel patrimonio
+separato – valore nominale – dati stock
+1.1 Esposizioni verso o esposizioni garantite da amministrazioni centrali, banche centrali SEBC, organismi del settore pubblico, amministrazioni regionali o autorità locali dell'Unione Europea
+1.3 Esposizioni verso enti creditizi classificati nelle classi di merito di credito 1, 2 o 3 nella forma di depositi con scadenza originaria inferiore a 100 giorni
+1.4 Altre esposizioni verso enti creditizi classificati nelle classi di merito di credito 1 o 2
+1.5 Prestiti garantiti da immobili residenziali con Loan-To- Value fino all'80%
+1.6 Prestiti su immobili residenziali che rispettano le condizioni di cui all'art. 129, par. 1, lett, e) CRR
+1.7 Prestiti garantiti da immobili non residenziali con Loan- To-Value fino al 60%
+1.8 Prestiti garantiti da immobili non residenziali con Loan- To-Value fino al 70% se risultano rispettate le altre condizioni previste all'art. 129, par, 1, lett. f CRR
+1.9 Prestiti garantiti da gravami marittimi su navi con Loan- To-Value fino al 60%
+1.10 Altri attivi idonei diversi dalle attività ammissibili di cui all’art. 129 CRR
+1.11 Crediti in default garantiti – valore nominale
+2. attivi idonei inclusi nel patrimonio separato e costi – valore attuale netto – dati stock
+2.1 Esposizioni verso o esposizioni garantite da amministrazioni centrali, banche centrali SEBC, organismi del settore pubblico, amministrazioni regionali o autorità locali dell'Unione Europea
+2.3 Esposizioni verso enti creditizi classificati nelle classi di merito di credito 1, 2 o 3 nella forma di depositi con scadenza originaria inferiore a 100 giorni
+2.4 Esposizioni verso enti creditizi classificati nelle classi di merito di credito 1, 2 o 3 nella forma di contratti derivati di copertura dei rischi delle attività del patrimonio separato – costo di sostituzione
+2.5 Altre esposizioni verso enti creditizi classificati nelle classi di merito di credito 1 o 2
+– 9.2.2 –
+Programma di emissione
+Classe di merito di credito
+   x-
+xx
+xx x- x- x- x-
+x- x- x-
+  1.2 Esposizioni verso o esposizioni garantite da amministrazioni centrali di paesi terzi, banche centrali paesi terzi, banche multilaterali di sviluppo, organizzazioni internazionali organismi del settore, amministrazioni regionali o autorità locali di paesi terzi che rispettano le condizioni previste dall’art. 129, par. 1, lett. b) CRR
+   x
+    x
+                               Programma di emissione
+Classe di merito di credito
+   x-
+xx xx xx
+  2.2 Esposizioni verso o esposizioni garantite da amministrazioni centrali di paesi terzi, banche centrali paesi terzi, banche multilaterali di sviluppo, organizzazioni internazionali organismi del settore, amministrazioni regionali o autorità locali di paesi terzi che rispettano le condizioni previste dall’art. 129, par. 1, lett. b) CRR
+   x
+    x
+          Circolare n. 286 del 17 dicembre 2013 – 17° aggiornamento del GG MMMM 2023
+
+PROGRAMMI DI EMISSIONE DI OBBLIGAZIONI BANCARIE GARANTITE
+Parte II
+Sezione: 9 – Programmi di emissione di obbligazioni bancarie garantite
+Sottosezione: 2 – Schemi di segnalazione dei requisiti di copertura e liquidità e delle altre informazioni sui programmi
+     2.6 Prestiti garantiti da immobili residenziali con Loan-To-Value fino all'80%
+2.7 Prestiti su immobili residenziali che rispettano le condizioni di cui all'art. 129, par. 1, lett, e) CRR
+2.8 Prestiti garantiti da immobili non residenziali con Loan-To- Value fino al 60%
+2.9 Prestiti garantiti da immobili non residenziali con Loan-To- Value fino al 70% se risultano rispettate le altre condizioni previste all'art. 129, par, 1, lett. f CRR
+2.10 Prestiti garantiti da gravami marittimi su navi con Loan-To- Value fino al 60%
+2.11 Altri attivi idonei diversi dalle attività ammissibili di cui all’art. 129 CRR
+2.12 (-) Costi gravanti sulla società cessionaria relativi alla manutenzione e alla gestione in caso di liquidazione del programma di emissione
+2.13 (-) Altri costi gravanti sulla società cessionaria 2.14 Crediti in default garantiti – valore contabile
+- PASSIVITA’
+3. Obbligazioni bancarie garantite emesse e altre passività – dati stock
+3.1 Obbligazioni bancarie garantite – valore nominale 3.2 Obbligazioni bancarie garantite – valore attuale netto
+3.3 Passività relative a derivati di copertura dei rischi insiti nelle attività facenti parte del patrimonio separato – costo di sostituzione
+3.4 Passività relative a derivati di copertura delle obbligazioni bancarie garantite emesse – costo di sostituzione
+4. Segnalazione negativa
+4.1 Segnalazione negativa
+- INTERESSI, PROVENTI E COSTI
+5. Interessi e altri proventi generati dalle
+attività del patrimonio separato, al netto dei
+costi sostenuti dalla società cessionaria
+5.1 Interessi dalle attività del patrimonio separato
+5.1.1 Di cui nei successivi dodici mesi
+5.2 Altri proventi generati dalle attività del patrimonio separato
+– 9.2.3 –
+x- x-
+x- x-
+x-
+x- x-
+x- x-
+                              Programma di emissione
+Codice del titolo
+   xx xx x-
+x-
+Programma di emissione
+x
+                    Programma di emissione
+x x x
+        Circolare n. 286 del 17 dicembre 2013 – 17° aggiornamento del GG MMMM 2023
+
+PROGRAMMI DI EMISSIONE DI OBBLIGAZIONI BANCARIE GARANTITE
+ Parte II Sezione: Sottosezione:
+9 – Programmi di emissione di obbligazioni bancarie garantite
+2 – Schemi di segnalazione dei requisiti di copertura e liquidità e delle altre informazioni sui programmi
+   5.2.1 Di cui nei successivi dodici mesi
+5.3 Pagamenti attesi da derivati di copertura dei rischi delle attività del patrimonio separato
+5.3.1 Di cui nei successivi dodici mesi
+5.4 (-) Pagamenti dovuti in relazione a derivati di copertura dei rischi delle attività del patrimonio separato
+5.4.1 (-) Di cui nei successivi dodici mesi
+5.5 (-) Costi gravanti sulla società cessionaria 5.5.1 (-) Di cui nei successivi dodici mesi
+6. Interessi e costi dovuti dalla banca emittente
+6.1 Interessi dovuti sulle obbligazioni bancarie garantite emesse
+6.1.1 Di cui nei successivi dodici mesi
+6.2 (-) Pagamenti attesi da derivati di copertura delle obbligazioni bancarie garantite emesse
+6.2.1 (-) Di cui nei successivi dodici mesi
+6.3 Pagamenti dovuti in relazione a derivati di copertura delle obbligazioni bancarie garantite emesse
+6.3.1 Di cui nei successivi dodici mesi 6.4 Costi dovuti dalla banca emittente 6.4.1 Di cui nei successivi dodici mesi
+x x
+x x
+x x x
+Programma di emissione
+x
+x x
+x x
+x x x
+                                  - CALCOLO DEI COEFFICIENTI DI COPERTURA
+  Programma di emissione
+  7. Coefficiente di copertura basato sul valore nominale (art. 7- x undecies, comma 1, lett. a) della legge 130/1999)
+Programma di emissione
+8. Coefficiente di copertura basato sul valore attuale netto x (art. 7-undecies, comma 1, lett. b) della legge 130/1999)
+Programma di emissione
+– 9.2.4 –
+            Circolare n. 286 del 17 dicembre 2013 – 17° aggiornamento del GG MMMM 2023
+
+PROGRAMMI DI EMISSIONE DI OBBLIGAZIONI BANCARIE GARANTITE
+Parte II
+Sezione: 9 – Programmi di emissione di obbligazioni bancarie garantite
+Sottosezione: 2 – Schemi di segnalazione dei requisiti di copertura e liquidità e delle altre informazioni sui programmi
+9. Coefficiente di copertura degli interessi (art. 7-undecies, x comma 1, lett. c) della legge 130/1999)
+REQUISITO DI LIQUIDITA’
+- AFFLUSSI, DEFLUSSI E RISERVA DI LIQUIDITA’
+         10. Afflussi e Deflussi di liquidità nei successivi 180 giorni
+10.1 Flussi in entrata da attività del patrimonio separato 10.2 Flussi in entrata da derivati di copertura
+10.3 (-) Flussi in uscita da obbligazioni bancarie garantite
+10.4 (-) Flussi in uscita da derivati di copertura 10.5 (-) Flussi in uscita per altri costi
+11. Flussi netti nei successivi 180 giorni
+11.1 Flusso netto
+11.2 Flusso netto cumulativo
+12. Riserva di liquidità – dati stock
+12.1 Attività liquide di elevata qualità (HQLA) 12.2 Esposizioni verso enti creditizi
+Programma di Scadenza dei emissione flussi
+xx xx xx
+xx xx
+Programma di Scadenza dei emissione flussi
+xx xx
+Programma di emissione
+x x
+                                      - CALCOLO DEL COEFFICIENTE DI LIQUIDITA’
+13. Coefficiente per la riserva di liquidità (art. 7-duodecies della legge 130/1999)
+ALTRE INFORMAZIONI
+– 9.2.5 –
+Programma di emissione
+x
+      Circolare n. 286 del 17 dicembre 2013 – 17° aggiornamento del GG MMMM 2023
+
+Parte II Sezione: Sottosezione:
+9 – Programmi di emissione di obbligazioni bancarie garantite
+2 – Schemi di segnalazione dei requisiti di copertura e liquidità e delle altre informazioni sui programmi
+PROGRAMMI DI EMISSIONE DI OBBLIGAZIONI BANCARIE GARANTITE
+    14. Altre informazioni sul
+programma di emissione
+14.1 Ammontare autorizzato del programma di emissione
+14.2 Ammontare autorizzato al netto delle emissioni effettuate
+14.3 Emissioni pianificate nel biennio
+14.3.1 Di cui nel corso del prossimo anno
+14.4 Integrazioni di attivi idonei effettuate negli ultimi dodici mesi
+14.5 Crediti in default non garantiti – valore nominale
+Programma di emissione
+x
+x
+x
+x x
+x
+              – 9.2.6 –
+Circolare n. 286 del 17 dicembre 2013 – 17° aggiornamento del GG MMMM 2023
+
+PROGRAMMI DI EMISSIONE DI OBBLIGAZIONI BANCARIE GARANTITE
+Parte II
+Sezione: 9 – Programmi di emissione di obbligazioni bancarie garantite
+Sottosezione: 2 – Schemi di segnalazione dei requisiti di copertura e liquidità e delle altre informazioni sui programmi
+  PROGRAMMA DI EMISSIONE:
+CLASSE DI MERITO DI CREDITO:
+CODICE DEL TITOLO: SCADENZA DEI FLUSSI:
+LEGENDA
+codice univoco assegnato al programma nel momento dell’autorizzazione e pubblicato sul sito della Banca d’Italia
+128 CQS1 129 CQS2 130 CQS3
+codice ISIN delle obbligazioni bancarie garantite emesse nell’ambito del programma
+61
+301
+302
+303
+304
+305
+306
+307
+308
+309
+310
+311
+312
+313
+314
+315
+overnight
+tra overnight e 2 giorni
+maggiore di 2 e fino a 3 giorni
+maggiore di 3 e fino a 4 giorni
+maggiore di 4 e fino a 5 giorni
+maggiore di 5 e fino a 6 giorni
+maggiore di 6 e fino a 7 giorni
+maggiore di 7 giorni e fino a 2 settimane maggiore di 2 e fino a 3 settimane maggiore di 3 settimane e fino a 30 giorni maggiore di 30 giorni e fino a 5 settimane maggiore di 5 settimane e fino a 2 mesi maggiore di 2 e fino a 3 mesi
+maggiore di 3 e fino a 4 mesi
+maggiore di 4 e fino a 5 mesi
+maggiore di 5 e fino a 6 mesi
+N.B. – Negli schemi, per ciascuna voce la “x”
+informativo vanno presi in considerazione tutti i valori di pertinenza di tale attributo; il trattino “-”, invece, sta ad indicare che l’attributo informativo non va fornito in corrispondenza della voce interessata.
+Il trattino “-” posto fra due numeri sta a significare che vanno presi in considerazione tutti i valori compresi fra i due numeri; la barra trasversale “/” posta fra due numeri sta a significare che vanno presi in considerazione solo i due numeri riportati.
+Avvertenze
+Ai fini dell’attribuzione di afflussi e deflussi nelle rispettive fasce di scadenza, le banche si attengono ai criteri previsti dalle istruzioni di compilazione dello schema di segnalazione
+– 9.2.7 –
+sta ad indicare che di un determinato attributo
+Circolare n. 286 del 17 dicembre 2013 – 17° aggiornamento del GG MMMM 2023
+
+PROGRAMMI DI EMISSIONE DI OBBLIGAZIONI BANCARIE GARANTITE
+Parte II
+Sezione: 9 – Programmi di emissione di obbligazioni bancarie garantite
+Sottosezione: 2 – Schemi di segnalazione dei requisiti di copertura e liquidità e delle altre informazioni sui programmi
+prudenziale della maturity ladder (modello C 66.01) (1).
+   (1) Cfr. Regolamento di esecuzione (UE) 2021/451 e successive modifiche, Allegato XXIII. – 9.2.8 –
+Circolare n. 286 del 17 dicembre 2013 – 17° aggiornamento del GG MMMM 2023
+
+PATRIMONIO DI VIGILANZA E COEFFICIENTI PRUDENZIALI
+Parte II
+Sezione: 9 – Programmi di emissione di obbligazioni garantite Sottosezione: 3 – Istruzioni per la compilazione degli schemi di rilevazione
+ Sottosezione:
+3 – ISTRUZIONI PER LA COMPILAZIONE DEGLI SCHEMI DI RILEVAZIONE
+– 9.3.1 –
+Circolare n. 286 del 17 dicembre 2013 – 17° aggiornamento del GG MMMM 2023
+
+PATRIMONIO DI VIGILANZA E COEFFICIENTI PRUDENZIALI
+Parte II
+Sezione: 9 – Programmi di emissione di obbligazioni garantite Sottosezione: 3 – Istruzioni per la compilazione degli schemi di rilevazione
+REQUISITI DI COPERTURA
+– COMPOSIZIONE DEL PATRIMONIO SEPARATO
+ 1.
+Attivi idonei inclusi nel patrimonio separato – valore nominale – dati stock
+Le informazioni di cui alla seguente voce devono essere segnalate al loro valore nominale e per il rispettivo debito residuo in linea capitale.
+Per le sottovoci dalla 1.1 alla 1.10 Rilevano le condizioni di ammissibilità stabilite dall’art. 7-novies della legge 130/1999 - incluso il rispetto degli obblighi previsti dall’art. 129, paragrafi da 1-bis a 3, del Regolamento (UE) 575/2013 - e le relative disposizioni attuative previste dalla Circolare 285/2013 alla Parte Terza, Capitolo 3, Sezione III, paragrafo 1.
+In caso di esposizioni parzialmente garantite, deve essere segnalato l’importo corrispondente alla sola quota garantita.
+Le esposizioni in default sono segnalate unicamente nella sottovoce 1.11 e solo nel caso in cui facciano riferimento a crediti garantiti.
+1.1 Esposizioni verso o esposizioni garantite da amministrazioni centrali, banche centrali SEBC, organismi del settore pubblico, amministrazioni regionali o autorità locali dell'Unione Europea
+Nella presente sottovoce devono essere segnalate le esposizioni di cui all’art. 129, par. 1, lett. a) del Regolamento (UE) 575/2013.
+1.2 Esposizioni verso o esposizioni garantite da amministrazioni centrali di paesi terzi, banche centrali paesi terzi, banche multilaterali di sviluppo, organizzazioni internazionali organismi del settore, amministrazioni regionali o autorità locali di paesi terzi che rispettano le condizioni previste dall’art. 129, par. 1, lett. b) CRR
+Nella presente sottovoce devono essere segnalate le esposizioni di cui all’art. 129, par. 1, lett. b) del Regolamento (UE) 575/2013.
+1.3 Esposizioni verso enti creditizi classificati nelle classi di merito di credito 1, 2 o 3 nella forma di depositi con scadenza originaria inferiore a 100 giorni
+Nella presente sottovoce devono essere segnalate le esposizioni nella forma di depositi a breve termine con scadenza originaria inferiore a 100 giorni, di cui all’art. 129, par. 1, lett. c), primo romanino del Regolamento (UE) 575/2013.
+1.4 Altre esposizioni verso enti creditizi classificati nelle classi di merito di credito 1 o 2
+Nella presente sottovoce devono essere segnalate le esposizioni di cui all’art. 129, par. 1, lett. c) del Regolamento (UE) 575/2013 verso enti classificati nelle classi di merito 1 o 2, diverse da quelle segnalate nella sottovoce 1.3. Sono escluse dalla presente sottovoce le esposizioni nella forma di contratti derivati di copertura dei rischi delle attività del patrimonio separato le quali, in base a quanto disposto dall’art. 7-undecies, comma 2, lett. e), della legge 130/1999; devono essere segnalate nella successiva sottovoce 2.4.
+1.5 Prestiti garantiti da immobili residenziali con Loan-To-Value fino all'80%
+Nella presente sottovoce devono essere segnalate le esposizioni di cui all’art. 129, par. 1, lett. d) del Regolamento (UE) 575/2013.
+– 9.3.2 –
+Circolare n. 286 del 17 dicembre 2013 – 17° aggiornamento del GG MMMM 2023
+
+PATRIMONIO DI VIGILANZA E COEFFICIENTI PRUDENZIALI
+Parte II
+Sezione: 9 – Programmi di emissione di obbligazioni garantite Sottosezione: 3 – Istruzioni per la compilazione degli schemi di rilevazione
+1.6 Prestiti su immobili residenziali che rispettano le condizioni di cui all'art. 129, par. 1, lett, e) CRR
+Nella presente sottovoce devono essere segnalate le esposizioni di cui all’art. 129, par. 1, lett. e) del Regolamento (UE) 575/2013.
+1.7 Prestiti garantiti da immobili non residenziali con Loan-To-Value fino al 60%
+Nella presente sottovoce devono essere segnalate le esposizioni di cui all’art. 129, par. 1, lett. f),
+primo periodo del Regolamento (UE) 575/2013.
+1.8 Prestiti garantiti da immobili non residenziali con Loan-To-Value fino al 70% se risultano rispettate le altre condizioni previste all'art. 129, par, 1, lett. f) CRR
+Nella presente sottovoce devono essere segnalate le esposizioni di cui all’art. 129, par. 1, lett. f) del Regolamento (UE) 575/2013 che presentano un Loan-To-Value oltre il 60% e fino al 70%, laddove risultino rispettate le condizioni previste dalla medesima lettera dell’articolo.
+1.9 Prestiti garantiti da gravami marittimi su navi con Loan-To-Value fino al 60%
+Nella presente sottovoce devono essere segnalate le esposizioni di cui all’art. 129, par. 1, lett. g)
+del Regolamento (UE) 575/2013.
+1.10 Altri attivi idonei diversi dalle attività ammissibili di cui all’art. 129 CRR
+Nella presente sottovoce devono essere segnalati gli attivi idonei nella forma di attività liquide previste dall’art. 7-duodecies della legge 130/1999 che siano diversi dalle attività ammissibili di cui all’art. 129 del Regolamento (UE) 575/2013.
+1.11 Crediti in default garantiti – valore nominale
+Nella presente sottovoce devono essere segnalati, al loro valore nominale, i crediti garantiti per i
+quali è intervenuto un default ai sensi dell’art. 178 del regolamento (UE) 575/2013.
+2. Attivi idonei inclusi nel patrimonio separato – valore attuale netto – dati stock
+Le informazioni di cui alla seguente voce devono essere segnalate al valore attuale netto, ad eccezione delle sottovoci 2.4 e 2.14. Il valore attuale netto è ottenuto sommando i flussi di cassa generati dalle diverse attività oggetto di segnalazione, i quali vengono scontati utilizzando i tassi ricavati dalla struttura a termine dei tassi di interesse (c.d. curva swap) rilevante alla data di riferimento della segnalazione.
+In caso di esposizioni parzialmente garantite, deve essere segnalato l’importo corrispondente alla sola quota garantita.
+Le esposizioni in default sono segnalate unicamente nella sottovoce 2.14 e solo nel caso in cui facciano riferimento a crediti garantiti.
+2.1 Esposizioni verso o esposizioni garantite da amministrazioni centrali, banche centrali SEBC, organismi del settore pubblico, amministrazioni regionali o autorità locali dell'Unione Europea
+ Cfr. anche voce 1.
+– 9.3.3 –
+Circolare n. 286 del 17 dicembre 2013 – 17° aggiornamento del GG MMMM 2023
+
+PATRIMONIO DI VIGILANZA E COEFFICIENTI PRUDENZIALI
+Parte II
+Sezione: 9 – Programmi di emissione di obbligazioni garantite Sottosezione: 3 – Istruzioni per la compilazione degli schemi di rilevazione
+2.2 Esposizioni verso o esposizioni garantite da amministrazioni centrali di paesi terzi, banche centrali paesi terzi, banche multilaterali di sviluppo, organizzazioni internazionali organismi del settore, amministrazioni regionali o autorità locali di paesi terzi che rispettano le condizioni previste dall’art. 129, par. 1, lett. b) CRR
+Cfr. anche voce 1.
+2.3 Esposizioni verso enti creditizi classificati nelle classi di merito di credito 1, 2 o 3 nella forma di depositi con scadenza originaria inferiore a 100 giorni
+Cfr. anche voce 1.
+2.4 Esposizioni verso enti creditizi classificati nelle classi di merito di credito 1, 2 o 3 nella forma di contratti derivati di copertura dei rischi delle attività del patrimonio separato – costo di sostituzione
+Nella presente sottovoce devono essere segnalate – al loro costo corrente di sostituzione – le esposizioni nella forma di contratti derivati di cui all’art. 129, par. 1, lett. c), secondo romanino del Regolamento (UE) 575/2013. Rilevano inoltre le condizioni di ammissibilità stabilite dagli artt. 7-novies e 7-decies della legge 130/1999 - incluso il rispetto degli obblighi previsti dall’art. 129, paragrafi da 1-bis a 3, del Regolamento (UE) 575/2013 - e le relative disposizioni attuative previste dalla Circolare 285/2013 alla Parte Terza, Capitolo 3, Sezione III, paragrafo 1.
+2.5 Altre esposizioni verso enti creditizi classificati nelle classi di merito di credito 1 o 2
+Cfr. anche voce 1.
+2.6 Prestiti garantiti da immobili residenziali con Loan-To-Value fino all'80% Cfr. anche voce 1.
+2.7 Prestiti su immobili residenziali che rispettano le condizioni di cui all'art. 129, par. 1, lett,
+e) CRR
+Cfr. anche voce 1.
+2.8 Prestiti garantiti da immobili non residenziali con Loan-To-Value fino al 60% Cfr. anche voce 1.
+2.9 Prestiti garantiti da immobili non residenziali con Loan-To-Value fino al 70% se risultano
+rispettate le altre condizioni previste all'art. 129, par, 1, lett. f) CRR
+Cfr. anche voce 1.
+2.10 Prestiti garantiti da gravami marittimi su navi con Loan-To-Value fino al 60% Cfr. anche voce 1.
+2.11 Altri attivi idonei diversi dalle attività ammissibili di cui all’art. 129 CRR
+Cfr. anche voce 1.
+2.12 (-) Costi gravanti sulla società cessionaria relativi alla manutenzione e alla gestione in caso
+di liquidazione del programma di emissione
+Nella presente sottovoce devono essere segnalati, con segno negativo, i costi gravanti sulla società cessionaria relativi alla manutenzione e alla gestione in caso di liquidazione del programma di emissione, necessari per il calcolo del requisito di copertura basato sul valore attuale netto di cui all’art.
+– 9.3.4 –
+ Circolare n. 286 del 17 dicembre 2013 – 17° aggiornamento del GG MMMM 2023
+
+PATRIMONIO DI VIGILANZA E COEFFICIENTI PRUDENZIALI
+Parte II
+Sezione: 9 – Programmi di emissione di obbligazioni garantite Sottosezione: 3 – Istruzioni per la compilazione degli schemi di rilevazione
+7-undecies, comma 1, lett. b) della legge 130/1999. In base a quanto previsto dall’art. 7-undecies, comma 2, lett. b) della legge 130/1999, tali costi possono essere calcolati anche in misura forfettaria.
+2.13 (-) Altri costi gravanti sulla società cessionaria
+Nella presente sottovoce devono essere segnalati, con segno negativo, i costi gravanti sulla società cessionaria diversi da quelli di cui alla sottovoce 2.12, necessari per il calcolo del requisito di copertura basato sul valore attuale netto e di quello basato sugli interessi di cui all’art. 7-undecies, comma 1, lettere b) e c) della legge 130/1999.
+2.14 Crediti in default garantiti – valore contabile Cfr. sottovoce 1.11.
+– PASSIVITA’
+3. Obbligazioni bancarie garantite emesse e altre passività – dati stock
+Nel caso di programmi di emissione soggetti alla disciplina transitoria prevista all’art. 3, comma 3 del d. lgs. 190/2021, come ulteriormente disciplinata dalla Circolare 285/2013 alla Parte Terza, Capitolo 3, Sezione VII, le obbligazioni bancarie garantite in essere includono sia i titoli emessi ai sensi della disciplina previgente (obbligazioni garantite) sia quelli emessi ai sensi della nuova disciplina introdotta dal Titolo I-bis della legge 130/1999 (obbligazioni garantite europee).
+3.1 Obbligazioni bancarie garantite – valore nominale
+Nella presente sottovoce devono essere segnalate – al loro valore nominale – le obbligazioni bancarie garantite in essere della banca emittente.
+3.2 Obbligazioni bancarie garantite – valore attuale netto
+Nella presente sottovoce devono essere segnalate – al loro valore attuale netto – le obbligazioni bancarie garantite in essere della banca emittente. Il valore attuale netto è ottenuto sommando i flussi di cassa generati dalle obbligazioni bancarie garantite, i quali vengono scontati utilizzando i tassi ricavati dalla struttura a termine dei tassi di interesse (c.d. curva swap) rilevante alla data di riferimento della segnalazione.
+3.3 Passività relative a derivati di copertura dei rischi insiti nelle attività facenti parte del patrimonio separato – costo di sostituzione
+Nella presente sottovoce devono essere segnalati – al loro costo corrente di sostituzione – i contratti derivati di copertura dei rischi insiti nelle attività facenti parte del patrimonio separato che presentano un valore negativo per la società cessionaria.
+3.4 Passività relative a derivati di copertura delle obbligazioni bancarie garantite emesse – costo di sostituzione
+Nella presente sottovoce devono essere segnalati – al loro costo corrente di sostituzione – i contratti derivati di copertura delle obbligazioni bancarie garantite emesse che presentano un valore negativo per la banca emittente.
+ 4. Segnalazione negativa
+– 9.3.5 –
+Circolare n. 286 del 17 dicembre 2013 – 17° aggiornamento del GG MMMM 2023
+
+PATRIMONIO DI VIGILANZA E COEFFICIENTI PRUDENZIALI
+Parte II
+Sezione: 9 – Programmi di emissione di obbligazioni garantite Sottosezione: 3 – Istruzioni per la compilazione degli schemi di rilevazione
+La presente voce deve essere segnalata, con valore convenzionale pari a 1, nel caso in cui alla data riferimento della segnalazione il programma di emissione sia stato autorizzato - con assegnazione del relativo numero identificativo - ma qualora non vi siano obbligazioni bancarie garantite in circolazione né attivi segregati.
+ – INTERESSI, PROVENTI E COSTI
+Interessi e altri proventi generati dalle attività del patrimonio separato, al netto dei
+5.
+costi sostenuti dalla società cessionaria
+5.1 Interessi dalle attività del patrimonio separato
+Nella presente sottovoce devono essere segnalati gli interessi generati dalle attività facenti parte del patrimonio separato. In base a quanto previsto dall’art. 7-undecies, comma 2, lett. d) della legge 130/1999 il calcolo degli interessi deve essere effettuato in base a criteri prudenti e coerenti con i principi contabili applicabili dalla banca emittente.
+Il periodo di riferimento da prendere in considerazione è l’intera vita dell’attività.
+5.1.1 Di cui nei successivi dodici mesi
+Nella presente sottovoce deve essere segnalata la parte di interessi di cui alla sottovoce 5.1 che ci si attende vengano generati nei dodici mesi successivi alla data di riferimento della segnalazione.
+5.2 Altri proventi generati dalle attività del patrimonio separato
+Nella presente sottovoce devono essere segnalati i proventi, diversi dagli interessi segnalati nella sottovoce 5.1, generati dalle attività facenti parte del patrimonio separato.
+Il periodo di riferimento da prendere in considerazione è l’intera vita dell’attività.
+5.2.1 Di cui nei successivi dodici mesi
+Nella presente sottovoce deve essere segnalata la parte di proventi di cui alla sottovoce 5.2 che ci si attende vengano generati nei dodici mesi successivi alla data di riferimento della segnalazione.
+5.3 Pagamenti attesi da derivati di copertura dei rischi delle attività del patrimonio separato
+Nella presente sottovoce devono essere segnalati i pagamenti attesi in relazione ai derivati di copertura dei rischi insiti nelle attività facenti parte del patrimonio separato che, alla data di riferimento della segnalazione, presentano un valore positivo per la società cessionaria.
+Il periodo di riferimento da prendere in considerazione è l’intera vita dell’attività.
+5.3.1 Di cui nei successivi dodici mesi
+Nella presente sottovoce deve essere segnalata la parte di pagamenti attesi in relazione ai derivati di copertura di cui alla sottovoce 5.3 che ci si attende di ricevere nei dodici mesi successivi alla data di riferimento della segnalazione.
+5.4 (-) Pagamenti dovuti in relazione ai derivati di copertura dei rischi delle attività del patrimonio separato
+Nella presente sottovoce devono essere segnalati, con segno negativo, i pagamenti dovuti in relazione ai derivati di copertura dei rischi insiti nelle attività facenti parte del patrimonio separato che, alla data di riferimento della segnalazione, presentano un valore negativo per la società cessionaria.
+Il periodo di riferimento da prendere in considerazione è l’intera vita della passività.
+– 9.3.6 –
+Circolare n. 286 del 17 dicembre 2013 – 17° aggiornamento del GG MMMM 2023
+
+PATRIMONIO DI VIGILANZA E COEFFICIENTI PRUDENZIALI
+Parte II
+Sezione: 9 – Programmi di emissione di obbligazioni garantite Sottosezione: 3 – Istruzioni per la compilazione degli schemi di rilevazione
+5.4.1 (-) Di cui nei successivi dodici mesi
+Nella presente sottovoce deve essere segnalata, con segno negativo, la parte di pagamenti dovuti in relazione ai derivati di copertura di cui alla sottovoce 5.4 che ci si attende di dover effettuare nei dodici mesi successivi alla data di riferimento della segnalazione.
+5.5 (-) Costi gravanti sulla società cessionaria
+Nella presente sottovoce devono essere segnalati, con segno negativo, i costi gravanti sulla società cessionaria, il cui importo corrisponde a quello segnalato nel precedente voce 2. alla sottovoce 2.13.
+Il periodo di riferimento da prendere in considerazione è l’intera vita del programma.
+5.5.1 (-) Di cui nei successivi dodici mesi
+Nella presente sottovoce deve essere segnalata, con segno negativo, la parte di costi di cui alla sottovoce 5.5 che ci si attende di dover sostenere nei dodici mesi successivi alla data di riferimento della segnalazione.
+6. Interessi e costi dovuti dalla banca emittente
+Nel caso di programmi di emissione soggetti alla disciplina transitoria prevista all’art. 3, comma 3 del d. lgs. 190/2021, come ulteriormente disciplinata dalla Circolare 285/2013 alla Parte Terza, Capitolo 3, Sezione VII, gli interessi e i costi dovuti dalla banca emittente sulle obbligazioni bancarie garantite in essere includono quelli relativi sia ai titoli emessi ai sensi della disciplina previgente (obbligazioni garantite) sia ai titoli emessi ai sensi della nuova disciplina introdotta dal Titolo I-bis della legge 130/1999 (obbligazioni garantite europee).
+6.1 Interessi dovuti sulle obbligazioni bancarie garantite emesse
+Nella presente sottovoce devono essere segnalati gli interessi dovuti dalla banca emittente in relazione alle obbligazioni bancarie garantite in essere. In base a quanto previsto dall’art. 7-undecies, comma 2, lett. d) della legge 130/1999 il calcolo degli interessi deve essere effettuato in base a criteri prudenti e coerenti con i principi contabili applicabili dalla banca emittente.
+Il periodo di riferimento da prendere in considerazione è l’intera vita della passività.
+6.1.1 Di cui nei successivi dodici mesi
+Nella presente sottovoce deve essere segnalata la parte di interessi di cui alla sottovoce 6.1 che ci si attende di dover pagare nei dodici mesi successivi alla data di riferimento della segnalazione.
+6.2 (-) Pagamenti attesi da derivati di copertura delle obbligazioni bancarie garantite emesse
+Nella presente sottovoce devono essere segnalati, con segno negativo, i pagamenti attesi dalla banca emittente in relazione ai derivati di copertura delle obbligazioni bancarie garantite in essere che, alla data di riferimento della segnalazione, assumono valore positivo per la banca stessa.
+Il periodo di riferimento da prendere in considerazione è l’intera vita dell’attività.
+6.2.1 (-) Di cui nei successivi dodici mesi
+Nella presente sottovoce deve essere segnalata, con segno negativo, la parte di pagamenti attesi di cui alla sottovoce 6.2 che la banca emittente si attende di ricevere nei dodici mesi successivi alla data di riferimento della segnalazione.
+– 9.3.7 –
+ Circolare n. 286 del 17 dicembre 2013 – 17° aggiornamento del GG MMMM 2023
+
+PATRIMONIO DI VIGILANZA E COEFFICIENTI PRUDENZIALI
+Parte II
+Sezione: 9 – Programmi di emissione di obbligazioni garantite Sottosezione: 3 – Istruzioni per la compilazione degli schemi di rilevazione
+6.3 Pagamenti dovuti in relazione a derivati di copertura delle obbligazioni bancarie garantite emesse
+Nella presente sottovoce devono essere segnalati i pagamenti dovuti dalla banca emittente in relazione ai derivati di copertura delle obbligazioni bancarie garantite emesse che, alla data di riferimento della segnalazione, presentano un valore negativo per la banca stessa.
+Il periodo di riferimento da prendere in considerazione è l’intera vita della passività.
+6.3.1 Di cui nei successivi dodici mesi
+Nella presente sottovoce deve essere segnalata la parte di pagamenti dovuti in relazione ai derivati di copertura di cui alla sottovoce 6.3 che la banca emittente si attende di effettuare nei dodici mesi successivi alla data di riferimento della segnalazione.
+6.4 Costi dovuti dalla banca emittente
+Nella presente sottovoce devono essere segnalati i costi dovuti dalla banca emittente in relazione alle obbligazioni bancarie garantite in essere.
+Il periodo di riferimento da prendere in considerazione è l’intera vita del programma.
+6.4.1 Di cui nei successivi dodici mesi
+Nella presente sottovoce deve essere segnalata la parte di costi di cui alla sottovoce 6.4 che la banca si attende di dover sostenere nei dodici mesi successivi alla data di riferimento della segnalazione.
+ – CALCOLO DEI COEFFICIENTI DI COPERTURA
+COEFFICIENTE DI COPERTURA BASATO SUL VALORE NOMINALE (art.
+7.
+7-undecies, comma 1, lett. a) della legge 130/1999)
+Nella presente voce deve essere segnalato il coefficiente ottenuto dal rapporto tra:
+– la somma delle sottovoci che compongono la voce 1 e
+– la sottovoce 3.1.
+La presente voce non va compilata nel caso in cui, a fronte di attivi inclusi nel patrimonio separato, alla data di riferimento della segnalazione non vi siano obbligazioni bancarie garantite in circolazione.
+Il coefficiente deve essere segnalato moltiplicando il valore ottenuto per 10.000 (ad es. nel caso di un rapporto pari a 1,05, andrà segnalato 10.500).
+8. COEFFICIENTE DI COPERTURA BASATO SUL VALORE ATTUALE NETTO (art. 7-undecies, comma 1, lett. b) della legge 130/1999)
+Nella presente voce deve essere segnalato il coefficiente ottenuto dal rapporto tra:
+– la somma algebrica delle sottovoci che compongono la voce 2 e
+– la somma delle sottovoci 3.2, 3.3 e 3.4.
+La presente voce non va compilata nel caso in cui, a fronte di attivi inclusi nel patrimonio separato, alla data di riferimento della segnalazione non vi siano obbligazioni bancarie garantite in circolazione.
+– 9.3.8 –
+Circolare n. 286 del 17 dicembre 2013 – 17° aggiornamento del GG MMMM 2023
+
+PATRIMONIO DI VIGILANZA E COEFFICIENTI PRUDENZIALI
+Parte II
+Sezione: 9 – Programmi di emissione di obbligazioni garantite Sottosezione: 3 – Istruzioni per la compilazione degli schemi di rilevazione
+Il coefficiente deve essere segnalato moltiplicando il valore ottenuto per 10.000 (ad es. nel caso di un rapporto pari a 1,05, andrà segnalato 10.500).
+9. COEFFICIENTE DI COPERTURA DEGLI INTERESSI (art. 7-undecies, comma 1, lett. a) della legge 130/1999)
+Nella presente sottovoce deve essere segnalato il coefficiente ottenuto dal rapporto tra:
+– la somma algebrica delle sottovoci 5.1, 5.2, 5.3, 5.4, 5.5 e
+– la somma algebrica delle sottovoci 6.1, 6.2, 6.3, 6.4.
+La presente voce non va compilata nel caso in cui, a fronte di attivi inclusi nel patrimonio separato, alla data di riferimento della segnalazione non vi siano obbligazioni bancarie garantite in circolazione.
+Il coefficiente deve essere segnalato moltiplicando il valore ottenuto per 10.000 (ad es. nel caso di un rapporto pari a 1,05, andrà segnalato 10.500).
+REQUISITO DI LIQUIDITA’
+– AFFLUSSI, DEFLUSSI E RISERVA DI LIQUIDITA’
+ 10.
+Deflussi di liquidità nei successivi 180 giorni
+Ai fini della segnalazione dei singoli flussi in entrata e uscita di cui alle seguenti sottovoci le banche emittenti si attengono alle disposizioni previste dalla Circolare 285/2013 alla Parte Terza, Capitolo 3, Sezione III, Paragrafo 3.
+10.1 Flussi in entrata da attività del patrimonio separato
+Nella presente sottovoce devono essere segnalati, in corrispondenza di ogni fascia di scadenza, i flussi in entrata relativi a interessi e altri proventi generati dalle attività che compongono il patrimonio separato.
+10.2 Flussi in entrata da derivati di copertura
+Nella presente sottovoce devono essere segnalati, in corrispondenza di ogni fascia di scadenza, i flussi in entrata relativi ai contratti derivati di copertura dei rischi insiti nelle attività facenti parte del patrimonio separato e i flussi in entrata relativi ai derivati di copertura delle obbligazioni bancarie garantite in essere.
+10.3 (-) Flussi in uscita da obbligazioni bancarie garantite
+Nella presente sottovoce devono essere segnalati, con segno negativo e in corrispondenza di ogni fascia di scadenza, i flussi in uscita relativi ai pagamenti dovuti in relazione alle obbligazioni bancarie garantite in circolazione.
+10.4 (-) Flussi in uscita da derivati di copertura
+Nella presente sottovoce devono essere segnalati, con segno negativo e in corrispondenza di ogni fascia di scadenza, i flussi in uscita (nella prospettiva della società cessionaria) relativi ai contratti derivati di copertura dei rischi insiti nelle attività facenti parte del patrimonio separato e i flussi in uscita (nella
+– 9.3.9 –
+Circolare n. 286 del 17 dicembre 2013 – 17° aggiornamento del GG MMMM 2023
+
+PATRIMONIO DI VIGILANZA E COEFFICIENTI PRUDENZIALI
+Parte II
+Sezione: 9 – Programmi di emissione di obbligazioni garantite Sottosezione: 3 – Istruzioni per la compilazione degli schemi di rilevazione
+prospettiva della banca emittente) relativi ai derivati di copertura delle obbligazioni bancarie garantite in essere.
+10.5 (-) Flussi in uscita per altri costi
+Nella presente sottovoce devono essere segnalati, con segno negativo e in corrispondenza di ogni fascia di scadenza, i flussi in uscita relativi ai costi a carico sia della società cessionaria sia della banca emittente.
+11. Flussi netti nei successivi 180 giorni
+Ai fini della segnalazione delle seguenti sottovoci le banche emittenti si attengono alle disposizioni previste dalla Circolare 285/2013 alla Parte Terza, Capitolo 3, Sezione III, Paragrafo 3.
+11.1 Flusso netto
+Nella presente sottovoce deve essere segnalato, in corrispondenza di ogni fascia di scadenza, il flusso netto risultante dalla somma algebrica dei flussi in entrata e uscita di cui alle sottovoci da 10.1 a 10.5 registrati nella medesima fascia di scadenza.
+11.2 Flusso netto cumulativo
+Nella presente sottovoce deve essere segnalato, in corrispondenza di ogni fascia di scadenza, la somma algebrica progressiva dei flussi netti della precedente sottovoce 11.1.
+12. Riserva di liquidità –dati stock
+12.1 Attività liquide di elevata qualità (HQLA)
+Nella presente sottovoce devono essere segnalati gli High Quality Liquid Assets (HQLA) ai sensi del regolamento delegato (UE) 61/2015 della Commissione, a patto che siano rispettate le condizioni di cui all’art. 7-duodecies della legge 130/1999. Gli HQLA devono essere segnalati a loro valore di mercato al netto degli scarti di garanzia regolamentari, calcolato in base all’art. 9 del regolamento delegato (UE) 61/2015 della Commissione.
+12.2 Esposizioni verso enti creditizi
+Nella presente sottovoce devono essere segnalate le esposizioni a breve termine verso enti creditizi che possono essere computate nella riserva di liquidità in base a quanto disposto dall’art. 7- duodecies, comma 2, lett. b) della legge 130/1999.
+– CALCOLO DEL COEFFICIENTE DI LIQUIDITA’
+COEFFICIENTE PER LA RISERVA DI LIQUIDITA’ (art. 7-duodecies della
+ 13.
+legge 130/1999)
+Nella presente voce deve essere segnalato, per ogni programma di emissione, il coefficiente ottenuto dal rapporto tra:
+– la somma delle sottovoci che compongono la voce 12 e
+– 9.3.10 –
+Circolare n. 286 del 17 dicembre 2013 – 17° aggiornamento del GG MMMM 2023
+
+PATRIMONIO DI VIGILANZA E COEFFICIENTI PRUDENZIALI
+Parte II
+Sezione: 9 – Programmi di emissione di obbligazioni garantite Sottosezione: 3 – Istruzioni per la compilazione degli schemi di rilevazione
+– la sottovoce 11.2, selezionando unicamente il valore assoluto dell’importo che presenta il valore negativo maggiore tra quelli segnalati nelle diverse fasce di scadenza.
+La presente voce non va compilata nel caso in cui nella sottovoce 11.2 non figurino valori negativi tra tutti quelli segnalati nelle diverse fasce di scadenza.
+Il coefficiente deve essere segnalato moltiplicando il valore ottenuto per 10.000. Ad esempio, nel caso di riserva di liquidità pari a € 105 milioni, deflusso netto cumulativo di maggiore entità pari a - € 100 milioni e, quindi, un rapporto pari a 1,05, andrà segnalato 10.500.
+ALTRE INFORMAZIONI
+14. Altre informazioni sul programma di emissione 14.1 Ammontare autorizzato del programma di emissione
+Nella seguente sottovoce deve essere segnalato l’ammontare massimo di obbligazioni bancarie garantite che possono essere emesse nell’ambito del programma di emissione precedentemente autorizzato.
+14.2 Ammontare autorizzato al netto delle emissioni effettuate
+Nella seguente sottovoce deve essere segnalato l’ammontare massimo di obbligazioni bancarie garantite che possono essere emesse nell’ambito del programma di emissione precedentemente autorizzato, al netto delle emissioni che sono già state effettuate.
+14.3 Emissioni pianificate nel biennio
+Nella seguente sottovoce devono essere segnalate, in relazione a ogni programma di emissione in essere, le emissioni di nuove obbligazioni bancarie garantite pianificate dalla banca emittente per due anni successivi alla data di riferimento della segnalazione.
+14.3.1 Di cui nel corso del prossimo anno
+Nella seguente sottovoce devono essere segnalate, in relazione a ogni programma di emissione in essere, le emissioni di nuove obbligazioni bancarie garantite pianificate dalla banca emittente per i dodici mesi successivi alla data di riferimento della segnalazione.
+14.4 Integrazioni di attivi idonei effettuate negli ultimi dodici mesi
+Nella presente sottovoce devono essere segnalati, al loro prezzo di acquisto, gli attivi idonei che sono stati acquisiti dalla società cessionaria negli dodici mesi precedenti alla data di riferimento della segnalazione.
+14.5 Crediti in default non garantiti – valore nominale
+Nella presente sottovoce devono essere segnalati, al loro valore nominale, i crediti non garantiti per i quali è intervenuto un default ai sensi dell’art. 178 del regolamento (UE) 575/2013. Tali crediti sono riportati unicamente per finalità informative poiché gli stessi, ai sensi dell’art. 7-undecies della legge 130/1999, non concorrono al calcolo dei tre rapporti di copertura di cui all’art. 7-undecies, comma 1 della legge 130/1999.
+– 9.3.11 –
+ Circolare n. 286 del 17 dicembre 2013 – 17° aggiornamento del GG MMMM 2023
+
+Parte II Sezione: Sottosezione:
+9 – Programmi di emissione di obbligazioni garantite
+3 – Istruzioni per la compilazione degli schemi di rilevazione
+PATRIMONIO DI VIGILANZA E COEFFICIENTI PRUDENZIALI
+ – 9.3.12 –
+Circolare n. 286 del 17 dicembre 2013 – 17° aggiornamento del GG MMMM 2023

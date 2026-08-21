@@ -1,0 +1,366 @@
+ REGOLAMENTO IVASS N. 41 DEL 2 AGOSTO 2018 RECANTE DISPOSIZIONI IN MATERIA DI INFORMATIVA, PUBBLICITÀ E REALIZZAZIONE DEI PRODOTTI ASSICURATIVI AI SENSI DEL DECRETO LEGISLATIVO 7 SETTEMBRE 2005, N. 209 - CODICE DELLE ASSICURAZIONI PRIVATE.
+Relazione 1. Il quadro normativo europeo e nazionale.
+La disciplina dell’informativa dei prodotti assicurativi è il risultato di un articolato sistema di fonti europee direttamente applicabili e di una normativa nazionale recentemente oggetto di revisione in occasione dell’attuazione della direttiva IDD.
+A livello europeo, le imprese d’assicurazione sono obbligate a redigere:
+- dal 1° gennaio 2018, il documento standardizzato base “KID” (Key Information Document), per tutti i prodotti d’investimento assicurativi (IBIPs, Insurance Based Investment Product);
+- dal 1° ottobre 2018, l’IPID (Insurance Product Information Document), il documento informativo precontrattuale standard contenente la descrizione delle principali caratteristiche del prodotto, previsto dalla Direttiva IDD e dal Regolamento di esecuzione (UE) n. 2017/1469 dell’11 agosto 2017per i prodotti assicurativi danni.
+Nell’ambito del decreto legislativo n. 68 del 2018 di recepimento della Direttiva IDD, modificativo del Codice delle Assicurazioni, il nuovo articolo 185 del CAP relativo all’informativa precontrattuale è stato modificato in modo da rendere l’informativa precontrattuale complessivamente coerente con la citata normativa europea.
+A tal fine è stato predisposto un sistema informativo precontrattuale omogeneo per i rami vita e danni imperniato sulla redazione di tre documenti precontrattuali standard di base:
+a) l’IPID per i prodotti danni (previsto dalla normativa UE);
+b) il DIP Vita per i prodotti vita di “puro rischio” (previsto dal CAP come specificità nazionale);
+c) il KID per i prodotti d’investimento assicurativi (previsto dalla normativa UE).
+Ciascun documento base viene affiancato, secondo le indicazioni dell’art. 185 CAP, da uno specifico “DIP aggiuntivo” che, unitamente al DIP Vita (non espressamente regolato a livello europeo), è disciplinato da IVASS con regolamento. Il documento informativo precontrattuale aggiuntivo è destinato a raccogliere le informazioni integrative e complementari rispetto a quelle contenute nei documenti di base, per una conoscenza più approfondita del prodotto e per guidare il cliente verso una decisione informata su diritti e obblighi contrattuali. In esso, devono essere incluse anche le altre informazioni, come quelle sui reclami o sulla legge applicabile al contratto previste da Solvency II che, seppur non decisive per la scelta del prodotto, sono comunque di rilevante utilità per il consumatore.
+2. Schema di regolamento IVASS in materia di informativa, pubblicità e realizzazione dei prodotti assicurativi.
+L’intervento regolamentare sostituisce (recast), aggiornandolo secondo i principi della normativa UE in materia e la conseguente novella del Codice delle Assicurazioni, il Regolamento n. 35, perseguendo quattro obiettivi principali:
+a. revisione dell’informativa precontrattuale per tutti i prodotti, attraverso la predisposizione di
+nuovi documenti semplificati e standardizzati in sostituzione dell’attuale nota informativa e scheda sintetica, ove prevista;
+   1
+
+ b. potenziamento della digitalizzazione attraverso: i) il potenziamento delle funzionalità della c.d. home insurance (aree riservate nei siti delle compagnie); ii) la sostituzione, su scelta del cliente, delle comunicazioni cartacee con comunicazioni che utilizzano mezzi digitali; iii) la riduzione dei vigenti obblighi di pubblicazione sui quotidiani;
+c. rafforzamento dei presidi di tutela del contraente, in particolare per quanto riguarda l’informativa in corso di contratto e le modalità di redazione dei documenti contrattuali;
+d. semplificazione del testo regolamentare e ulteriori adeguamenti necessari sulla base della normativa vigente, in coordinamento con il regolamento sulla distribuzione.
+Con riferimento all’informativa precontrattuale, il testo - superando la struttura del Regolamento n. 35 che distingueva tra prodotti vita, prodotti di ramo III e V e prodotti danni - introduce la stessa articolazione di prodotti prevista dal CAP e, tenuto conto dei documenti standardizzati europei, predispone gli ulteriori modelli standardizzati in sostituzione delle vigenti note informative: il DIP aggiuntivo Danni; il DIP Vita, il DIP aggiuntivo Vita; il DIP aggiuntivo Multirischi; il DIP aggiuntivo IBIP.
+Al fine di consentire di adattare i DIP alle variegate tipologie di prodotti presenti sul mercato viene prevista una struttura standardizzata, ma non sono declinate nel dettaglio le nozioni di informazione “principale” e informazione “integrativa”, pur specificando che non devono verificarsi duplicazioni di informazioni. A seguito dell’analisi dei DIP redatti dalle imprese, l’IVASS si riserva di fornire ulteriori indicazioni sulle modalità di compilazione, anche nella prospettiva di un’auspicata semplificazione dei prodotti. L’IVASS ha prestato attenzione alla semplificazione dei DIP aggiuntivi; tuttavia, in caso di prodotti particolarmente complessi o modulari, è possibile che il DIP aggiuntivo abbia una lunghezza maggiore.
+Per aumentare la comparabilità dei prodotti e rimarcare la natura integrativa del modello informativo in parola rispetto al modello base, si stabilisce l’obbligo di riportare nel DIP aggiuntivo tutte le sezioni e rubriche anche nel caso in cui una o più di esse siano destinate a rimanere vuote per mancanza di informazioni integrative rispetto a quelle già riportate nelle omologhe rubriche del modello base.
+Il DIP aggiuntivo Danni è stato redatto sulla base delle risultanze della pubblica consultazione del documento n. 3/2017 del 30 agosto 2017, apportando le modifiche ritenute necessarie per l’allineamento complessivo al nuovo CAP e alla struttura e contenuto degli altri DIP.
+Il DIP aggiuntivo IBIP è stato predisposto con la finalità di integrare le informazioni previste nel documento KID per tutti i prodotti IBIPs. A seguito dell’adozione del “Documento CONSOB di pubblica consultazione del 28 giugno 2018” (1) che ha l’obiettivo di eliminare il Prospetto dei prodotti di ramo III e V, è stata definitivamente semplificata l’informativa precontrattuale dei prodotti IBIPs che, a regime, consisterà esclusivamente nel KID e nel relativo DIP aggiuntivo IBIP.
+Il Regolamento persegue anche l’obiettivo di potenziare la digitalizzazione del mercato assicurativo, attraverso:
+a) revisione della disciplina delle aree internet riservate (c.d. home insurance) mediante
+l’introduzione dell’obbligo di consentire la gestione del contratto per le imprese autorizzate in Italia e, limitatamente ai contratti relativi all’assicurazione obbligatoria per la responsabilità civile per la circolazione dei veicoli a motore e dei natanti, per le imprese comunitarie; le aree riservate potranno essere attivate anche tramite applicazione mobile, oltre che da sito internet;
+b) valorizzazione del sito internet con ampliamento dei contenuti a vantaggio degli utenti e delle imprese (pubblicazione dei set informativi di tutti i prodotti commercializzati, recapito gratuito per fornire assistenza ai contraenti, regolamenti della gestione separata, nonché dell’informativa sui conflitti di interesse e sulla finanza etica e sostenibile, fino ad oggi inseriti nell’informativa precontrattuale cartacea);
+1 Modifiche al regolamento emittenti in materia di informativa precontrattuale concernente i prodotti finanziari emessi da imprese di assicurazione - recepimento della direttiva (UE) 2016/97 sulla distribuzione assicurativa (IDD).
+      2
+
+ c) introduzione dell’obbligo di gestione digitale delle informazioni contrattuali in modo da agevolare la raccolta di dati a supporto di un’efficace gestione della clientela target, nonché dell’individuazione dell’identità del beneficiario delle polizze vita, contribuendo pertanto a contenere il fenomeno delle polizze dormienti;
+d) eliminazione dell’obbligo di pubblicazione nei quotidiani per i rendimenti delle gestioni separate e delle quote di OICR e fondi interni, nonché previsione della più generale modalità di comunicazione prevista dal Codice che può essere, a scelta del cliente, cartacea o digitale;
+Particolare attenzione è stata rivolta al rafforzamento delle norme a tutela dei contraenti: sono state inserite disposizioni tese a facilitare ulteriormente la semplificazione contrattuale, a garantire la comparabilità delle condizioni in caso di modifiche in corso di contratto (modifica del tasso d’interesse garantito, esercizio delle opzioni, trasformazione del contratto) e a ridurre il fenomeno delle polizze dormienti.
+E’ stata altresì disciplinata la predisposizione e la gestione della documentazione precontrattuale quando vi sono più soggetti che realizzano il prodotto assicurativo.
+3. Struttura del Regolamento
+Il Regolamento si compone di 49 articoli, divisi in quattro Titoli, e da 7 allegati. Si riporta di
+seguito una sintesi delle diverse disposizioni.
+Il Titolo I introduce le disposizioni di carattere generale, quali le fonti normative (art. 1), le definizioni utilizzate nel testo (art. 2) e l’ambito di applicazione del regolamento (art. 3). Riguardo a quest’ultimo, è stato ritenuto opportuno, data la rilevanza dell’informazione precontrattuale e contrattuale, di estendere le norme applicabili alle imprese assicurative che offrono prodotti assicurativi nel territorio italiano, in quanto autorizzate o abilitate ad ivi operare.
+In particolare, per effetto di tale estensione, si applicheranno obbligatoriamente alle imprese UE le disposizioni relative al sito internet dell’impresa (che deve essere redatto almeno in lingua italiana, recare tutta la documentazione precontrattuale e le altre informazioni previste dal regolamento, nonché contenere i recapiti idonei a fornire tempestiva e gratuita assistenza ai contraenti) e, limitatamente ai contratti relativi all’assicurazione obbligatoria per la responsabilità civile per la circolazione dei veicoli a motore e dei natanti, le disposizioni relative alla home insurance. Non è escluso, tuttavia, che le imprese UE possano attivare la home insurance per gli altri rami, secondo le disposizioni di cui al presente Regolamento. Si intende in tal modo consentire un graduale allineamento rispetto agli obblighi previsti per le imprese italiane.
+Il Titolo II, diviso in quattro Capi, contiene le disposizioni relative agli obblighi di informativa, inserendo, in particolare, le disposizioni regolamentari a supporto dei modelli standardizzati informativi.
+Il Capo I, introduce norme generali relative a tutti i prodotti assicurativi. Sono dettati i criteri di redazione e di comunicazione delle informazioni della documentazione precontrattuale e contrattuale, nel rispetto delle indicazioni presenti sia nella normativa europea che nel Codice (art. 4), gli obblighi di riesame e di eventuale revisione (art. 5), gli obblighi d’informativa in caso di trasferimento d’agenzia e di operazioni straordinarie (art. 6), gli obblighi di riscontro delle imprese alle richieste d’informazione dei contraenti o degli aventi diritto (art. 7) e i criteri di archiviazione e conservazione della documentazione prevista dal Regolamento che devono essere seguiti dalle imprese, secondo le disposizioni del Codice dell’Amministrazione Digitale, nonché di limitazione delle richieste di documentazione esclusivamente a quanto non già in possesso delle imprese (art. 8). Nell’ambito delle regole generali, vengono incluse anche le disposizioni relative ai contratti in forma collettiva per i quali l’adesione è espressione di libera volontà dell’assicurato e comporti per il medesimo degli oneri economici (art. 9). Nel medesimo articolo è chiarito che tutti gli assicurati
+ 3
+
+ hanno diritto di richiedere le condizioni contrattuali qualora non sia prevista la relativa consegna in fase precontrattuale. Modificando la previgente regolamentazione del Regolamento n. 35/2010, in base alla quale l’impresa doveva inserire nella “convenzione” stipulata con il contraente della polizza collettiva l’obbligo di quest’ultimo di consegnare all’aderente la documentazione precontrattuale, la nuova disposizione rimanda alle regole previste dal Regolamento sulla distribuzione per quanto riguarda l’individuazione degli obblighi di consegna. È stata, altresì, introdotta una disposizione relativa al contenuto del modulo di adesione, che deve riportare l’indicazione dei documenti precontrattuali che l’impresa è tenuta a consegnare all’aderente e dare evidenza degli altri diritti d’informazione in capo a quest’ultimo.
+Il Capo II è specificatamente dedicato agli obblighi d’informativa relativi ai prodotti assicurativi vita diversi dai prodotti d’investimento assicurativi (con esclusione, quindi, delle polizze rivalutabili). Riguardo a questi ultimi, nella revisione dell’informativa precontrattuale sono stati elaborati documenti informativi semplificati e standardizzati, diretti ad agevolare la confrontabilità dei prodotti, a combattere le opacità informative del mercato e ad accrescere, di conseguenza, la fiducia del consumatore negli operatori.
+Con riferimento al Documento Informativo Precontrattuale (DIP Vita), sono state replicate mutatis mutandis le norme di attuazione europee relative al documento base dei rami danni (il DIP Danni ovvero l’IPID disciplinato dal Regolamento di Esecuzione UE 2017/1469), inclusa quella relativa alla lunghezza massima del documento. E’ individuata la documentazione che deve essere predisposta e consegnata congiuntamente (c.d. set informativo, art. 10) e le caratteristiche dell’eventuale proposta di assicurazione, anche al fine di evitare il fenomeno delle polizze dormienti (art. 11). A questo riguardo, per ridurre il fenomeno, è stata incoraggiata la facoltà del contraente di designare un beneficiario in forma nominativa e, nei casi in cui questi manifesti esigenze specifiche di riservatezza, un referente terzo, prevedendo nel modulo di polizza appositi spazi destinati ad accogliere i dati necessari alla loro identificazione. Viene disciplinata la struttura e il contenuto del Documento Informativo Precontrattuale (DIP Vita, artt. 12, 13 e 14) e del Documento informativo Precontrattuale aggiuntivo (DIP aggiuntivo Vita, art. 15).
+Un’evidenza separata viene data al Documento informativo precontrattuale aggiuntivo “DIP Multirischi” relativo ai prodotti assicurativi vita c.d. Multirischi. La norma fa riferimento a prodotti in cui siano abbinate garanzie vita di “puro rischio” con garanzie danni per i quali, ferma l’esigenza di documenti di base distinti (DIP Vita e DIP Danni) a causa dell’eterogeneità dei settori interessati, l’obiettivo di semplificazione è perseguito con la previsione di un’informativa aggiuntiva unitaria per tutte le garanzie che l’impresa ha scelto di includere nel prodotto per soddisfare le esigenze assicurative del target di clienti individuato in fase di ideazione del prodotto (art. 16).
+E’ disciplinata l’informativa che l’impresa rende al contraente in merito alle opzioni previste dal contratto (art. 17). In particolare, in coerenza con l’articolo 185 del CAP, è stato previsto che il DIP aggiuntivo Vita contenga la descrizione di tutte le opzioni esercitabili, dando evidenza dei relativi costi massimi e delle modalità di esercizio; inoltre, viene disposto – per le opzioni esercitabili a scadenza o a data prevista nel contratto – che l’impresa trenta giorni prima dell’esercizio dell’opzione, consegni al contraente un’informativa specifica recante i costi effettivi, le condizioni applicate e il confronto tra nuove e vecchie garanzie, anche da un punto di vista fiscale, in modo da consentire al contraente di decidere in modo ponderato se esercitare l’opzione contrattuale o meno. Sono regolate le comunicazioni in corso di contratto (estratto conto, scadenza del contratto, prescrizione) (art. 18) e sono individuati gli obblighi dell’impresa nelle ipotesi di trasformazione del contratto, anche nel caso in cui la trasformazione venga realizzata attraverso il riscatto del precedente contratto (art. 19). In tale ipotesi è prevista la consegna al contraente, almeno sette giorni prima del riscatto o della sottoscrizione del nuovo contratto, del set informativo e dell’informativa specifica che, secondo l’allegato n. 7, aiuta il contraente a confrontare i due prodotti oggetto dell’operazione contrattuale. La disposizione si applica anche alla trasformazione di IBIPs.
+Il Capo III disciplina gli obblighi di informativa relativi ai prodotti d’investimento assicurativi (c.d. prodotti IBIP). Viene individuata la documentazione (c.d. set informativo) che deve essere
+4
+
+ predisposta (art. 20) e sono indicate le caratteristiche del Documento informativo precontrattuale aggiuntivo - DIP aggiuntivo IBIP (art. 21). Quest’ultimo è stato predisposto secondo uno standard che replica struttura e grafica dei modelli di DIP aggiuntivo relativi alle altre categorie di prodotti, con l’inserimento di ulteriori informazioni peculiari degli IBIP, in modo da sostituire le previgenti Scheda sintetica e Nota informativa, riportando in ogni caso le sole informazioni integrative del KID necessarie a rendere edotto il cliente circa il fatto che sta sottoscrivendo un contratto di assicurazione, anche se appartenente al genere dei prodotti “IBIP”. Viene confermato l’obbligo di invio della lettera di conferma di investimento dei premi per i contratti unit linked (art. 22).
+Rispetto alla disciplina previgente, in analogia a quanto previsto per i prodotti vita diversi dagli IBIPs, è posto l’obbligo di descrizione delle opzioni, con evidenza dei costi e delle relative modalità di esercizio, all’interno del DIP aggiuntivo IBIP, nonché l’obbligo di comunicazione trenta giorni prima della scadenza per le obbligazioni a scadenza o a data certa. Analogo obbligo di comunicazione è previsto tre giorni prima dell’esercizio delle opzioni che determinano una variazione del capitale garantito (art. 23). Con riferimento all’informativa in corso di contratto, viene disciplinata la pubblicazione periodica delle informazioni relative alle prestazioni assicurative (art. 24) e l’estratto conto annuale differenziato per tipologia di prodotto (art. 25). Alla luce della diffusione ed accessibilità alle tecnologie digitali e tenuto conto della possibilità per il cliente di richiedere in ogni momento all’impresa il valore della quota del fondo interno o della quota o azione collegata al prodotto, permane l’obbligo di pubblicazione sul sito, ma viene abolita la pubblicazione obbligatoria giornaliera sui quotidiani di tali informazioni, sostituita dal diritto del contraente di richiedere tale informazione all’impresa.
+Viene confermato l’obbligo di comunicare al contraente - per i prodotti unit e index - le perdite superiori al 30% del premio, chiarendo che tale percentuale è calcolata rispetto alla quota investita in unit o index. Al fine di consentire la verifica del rispetto di tale previsione e facilitare l’esercizio dei poteri di intervento previsti dalla normativa vigente, si introduce l’obbligo di trasmissione ad IVASS di tali comunicazioni, da inviare secondo istruzioni operative che verranno successivamente rese note (art. 26).
+Il Capo IV è dedicato agli obblighi di informativa relativi ai prodotti assicurativi danni. Analogamente alle omologhe disposizioni sui prodotti vita e IBIP, viene indicata la documentazione da predisporre ai fini della vendita di tali prodotti (art. 27). L’obbligo di pubblicazione della documentazione precontrattuale, prima circoscritto ad un numero limitato di rami (infortuni, malattia, rischi relativi all’abitazione con riferimento a furto, incendio e responsabilità civile del capo famiglia, polizze connesse a mutui e ad altri contratti di finanziamento), è stato ora esteso a tutti i rami danni. Vengono poi specificate alcune avvertenze e contenuti che devono essere inseriti nelle polizze (art. 28) e precisati struttura e contenuto del DIP aggiuntivo Danni (art. 29). Quest’ultimo è stato redatto sulla base delle risultanze della pubblica consultazione del documento n. 3/2017 del 30 agosto 2017, i cui esiti sono confluiti nel presente regolamento. Le modifiche proposte riguardano l’allineamento alle disposizioni del Codice e all’integrazione del DIP con le informazioni relative all’indicazione del cliente target e dei costi medi a carico del contraente.
+Il Titolo III, diviso in quattro Capi, detta le disposizioni in materia di prodotti assicurativi.
+Il Capo I regola la pubblicità dei prodotti assicurativi. E’ stata confermata la precedente disciplina generale relativa alla pubblicità effettuata dalle imprese mentre la disciplina relativa alla pubblicità degli intermediari è confluita più razionalmente nel regolamento sulla distribuzione. In particolare, le norme dispongono che la pubblicità si svolga secondo i principi di chiarezza e correttezza nonché in conformità al contenuto del set informativo cui i prodotti si riferiscono e in modo tale che ne sia riconosciuta la natura pubblicitaria rispetto ad ogni altra forma di comunicazione (art. 30). Vengono, inoltre, dettate norme sugli elementi della pubblicità, con specifico riferimento alla precisa riconducibilità del prodotto, chiaramente presentato, all’impresa, esattamente indicata, e alle specifiche ulteriori avvertenze che devono essere fornite (art. 31). Estendendo l’ambito di applicazione a tutti i prodotti IBIP, sono previste disposizioni sulle modalità di presentazione dei rendimenti dei prodotti d’investimento assicurativi (art. 32).
+5
+
+ Il Capo II detta i principi, gli obblighi e le precauzioni che debbono essere osservati nella realizzazione dei prodotti assicurativi.
+Confermando i principi contenuti nella lettera IVASS al mercato del 14 marzo 2018, è stato espressamente introdotto l’obbligo di redigere i contratti assicurativi utilizzando un linguaggio semplice e chiaro, in linea con le espressioni e la struttura usate nella documentazione precontrattuale (art. 33). Per i prodotti realizzati da più produttori (da più imprese o da una o più impresa e uno o più intermediari che realizzano prodotti assicurativi ai sensi dell’articolo 3, paragrafi 1, 2 e 3, del Regolamento delegato (UE) 2017/2358 della Commissione del 21 settembre 2017, c.d. manufacturer de facto), è previsto, a tutela dell’assicurato, da una parte, che i soggetti coinvolti realizzino un unico documento precontrattuale, in modo da garantire unitarietà ed intellegibilità all’informativa, dall’altra, che pubblichino in ogni caso i documenti su tutti i rispettivi siti internet. Inoltre, per agevolare l’esercizio dell’azione di vigilanza, e in aderenza a quanto previsto per i requisiti di product governance dal Regolamento delegato (UE) 2017/2358 della Commissione del 21 settembre 2017, è richiesta la predisposizione di un accordo scritto che specifichi la collaborazione dei produttori nel rispettare i requisiti previsti dal presente Regolamento (art. 34).
+La materia dei conflitti d’interesse, già prevista nella normativa precedente, è stata adeguata mutatis mutandis alla disciplina dei conflitti di interesse prevista dalla Direttiva sulla distribuzione assicurativa e l’informativa viene inserita nel sito internet dell’impresa anziché nella documentazione precontrattuale (art. 35). Analoga scelta sulle modalità informative è prevista per le informazioni volte ad illustrare tutti gli aspetti che consentono di qualificare il prodotto come “etico” o “sostenibile” (art. 36).
+Con il Capo III sono state confermate le disposizioni particolari, già in passato regolamentate in considerazione di alcune loro specifiche caratteristiche, relativamente ai contratti unit-linked (art. 37), infortuni e malattia (art. 38) o connessi a mutui ed ad altri contratti di finanziamento (art. 39). Con riguardo ai contratti infortuni e malattia, confermando quanto previsto dalla lettera IVASS del 28 febbraio 2018, è prevista, in aggiunta alla disposizione vigente, la possibilità che gli eredi dell’assicurato, nel caso di premorienza di quest’ultimo rispetto al termine minimo previsto dall’impresa per l’accertamento dei postumi permanenti dell’invalidità derivante dalla malattia o dall’infortunio, o all’accertamento medico-legale dell’impresa, possano dimostrare la sussistenza del diritto all’indennizzo mediante la consegna di altra documentazione idonea ad accertare la stabilizzazione dei postumi. Viene, inoltre, previsto che la modifica del tasso d’interesse garantito sia consentita solo sulla base di meccanismi predefiniti nelle condizioni di polizza e nel rispetto dell’articolo 33 del Codice; in ogni caso la variazione è previamente comunicata al contraente e si applica esclusivamente ai premi con scadenza successiva (art. 40).
+Nel Capo IV sono confluite le disposizioni sulla gestione telematica dei rapporti assicurativi. Vengono confermate le disposizioni già in essere con riferimento all’obbligo di creazione del sito internet prevista nel Regolamento ISVAP n. 34 del 2010 (art. 41) con l’aggiunta dell’obbligo di pubblicare tutti i set informativi dei prodotti commercializzati, l’informativa sui conflitti di interesse e la finanza etica e sostenibile, il regolamento della gestione separata, nonché il recapito telefonico o qualsiasi altro strumento idoneo a fornire tempestiva e gratuita assistenza ai contraenti; nel sito dovranno anche essere attivate, nei limiti di cui all’art. 3, specifiche aree riservate all’accesso di ciascun contraente alle proprie posizioni assicurative.
+Il regolamento viene integrato introducendo l’obbligo di consentire, mediante le aree riservate, la possibilità di dare disposizioni sulla gestione del rapporto contrattuale (che potranno essere processate successivamente dall’impresa), oltre che l’accesso alle informazioni rilevanti, inclusi i dati sul beneficiario e l’indicazione di un referente terzo nel caso in cui il contraente manifesti esigenze di riservatezza, in modo da prevenire il fenomeno delle polizze dormienti (art. 42). Attraverso la home insurance, è richiesto de minimis la possibilità di inserimento di richieste
+6
+
+ dispositive a fronte delle quali l’impresa deve dare seguito ma non è escluso che l’impresa possa incrementare tale funzionalità consentendo anche modalità operative più evolute ed automatiche. Tale strumento non esclude, tuttavia, che il contraente che ha attivato l’area riservata possa comunque rivolgersi all’intermediario che ha collocato il prodotto per poter effettuare l’operazione. È inoltre prevista anche la possibilità che l’accesso alle aree riservate sia consentito, oltre che dal sito, anche tramite applicazione informatica, in ogni caso secondo modalità che garantiscano la riservatezza delle informazioni dei contraenti (art. 43). Viene confermato l’obbligo di informare gli interessati dell’esistenza delle aree di accesso e delle modalità di attivazione (art. 44) e l’esclusione dall’ambito di applicazione per rischi particolari (art. 45). Viene, infine, affermato il principio della gestione digitale dei dati anagrafici e dei dati presenti nei contratti sottoscritti (relativi al contraente, al beneficiario e al referente terzo nelle polizze vita) e delle informazioni sulle coperture attive, anche al fine di adempiere alla disciplina in materia di POG recepita dal Codice e di limitare il fenomeno delle polizze “dormienti” (art. 46).
+Il Titolo IV contiene le disposizioni transitorie e finali, regolando gli aspetti transitori della normativa (art. 47), le abrogazioni (art. 48) e l’entrata in vigore del regolamento (art. 49). Alla luce delle numerose modifiche, il documento fissa l’entrata in vigore al 1° gennaio 2019 in modo da consentire alle imprese di adeguare la documentazione e la struttura organizzativa. Per gli obblighi relativi alla gestione digitale del rapporto di assicurazione, le imprese si adeguano entro il 1° maggio 2020, tenuto conto degli ulteriori adempimenti operativi connessi all’applicazione delle disposizioni. Per l’adempimento ai nuovi obblighi previsti in caso di trasformazione, le imprese si adeguano entro il 1° maggio 2019.
+Gli allegati recano i modelli standardizzati relativi ai DIP introdotti da IVASS (all. 1-6) e dell’informativa da rendere in caso di trasformazione (all. 7).
+7
+
+ ANALISI PER LA VALUTAZIONE DELL’IMPATTO DELLA REGOLAMENTAZIONE (c.d. AIR FINALE)
+Sulla base delle disposizioni del Regolamento IVASS n. 3/2013 in materia di procedimenti per l’adozione di atti regolamentari e generali dell’IVASS, in particolare degli articoli 5, 7 e tenuto conto del principio di trasparenza e proporzionalità che anima il processo regolamentare dell’Istituto, è stata effettuata l’analisi dell’impatto della regolamentazione in argomento nell’ambito della quale sono state esaminate diverse opzioni normative al fine di formulare soluzioni che rendano efficace l’atto stesso.
+Nel presente documento, si rappresentano i risultati conclusivi dell’analisi di impatto, comprendente le ulteriori valutazioni riconducibili alla fase di pubblica consultazione, con particolare riferimento alle proposte e commenti ricevuti.
+1. Scenario di riferimento
+Il decreto legislativo n. 68/2018, recante l’attuazione della Direttiva (UE) 2016/97 sulla distribuzione assicurativa (cd. Direttiva IDD), prevede una nuova formulazione degli articoli del Codice delle Assicurazioni dedicati agli obblighi informativi precontrattuali a carico delle imprese.
+In particolare, il nuovo articolo 185 del Codice delinea, in sostituzione del preesistente Fascicolo informativo comprensivo della Nota informativa, un sistema informativo omogeneo per i rami vita e danni, imperniato sulla redazione e contestuale consegna al potenziale contraente di documenti precontrattuali di base (DIP Danni, DIP Vita e KID2) distinti a seconda del tipo di prodotto (rispettivamente prodotti danni, prodotti vita diversi da quelli d’investimento assicurativi e prodotti d’investimento assicurativi), dei quali espongono le principali caratteristiche.
+A ciascuno di questi documenti, lo stesso articolo 185 affianca un documento informativo precontrattuale aggiuntivo che contiene informazioni, diverse da quelle pubblicitarie o promozionali, integrative e complementari rispetto a quelle contenute nei documenti base, tenendo conto della complessità e delle caratteristiche del prodotto, del tipo di cliente e delle specificità dell’impresa di assicurazione, con l’obiettivo di guidare il cliente medesimo verso una decisione informata su diritti e obblighi contrattuali e, ove opportuno, sulla situazione patrimoniale dell’impresa.
+Considerato che due modelli di base (IPID3, o DIP Danni, e KID) sono già disciplinati a livello europeo da norme direttamente applicabili (Regolamento di esecuzione (UE) n. 2017/1469, Regolamento (UE) 1286/2014, Regolamento Delegato (UE) 2017/653), il nuovo Codice rimette all’IVASS il compito di regolamentare il contenuto e il formato standard del documento di base relativo ai prodotti vita diversi da quelli d’investimento (DIP Vita), nonché dei tre documenti informativi aggiuntivi (DIP aggiuntivi).
+In data 14 marzo 2018 è stata emanata la Direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio recante l’obbligo degli Stati membri di adottare e pubblicare le disposizioni legislative, regolamentari e amministrative necessarie per conformarsi alla Direttiva IDD entro il 1° luglio 2018.
+Per avviare quanto prima il relativo recepimento delle disposizioni comunitarie, l’ l’Istituto ha posto l’8 giugno 2018 in pubblica consultazione lo schema di regolamento che ha contemplato la riforma del Regolamento ISVAP n. 35/2010, recuperando anche le modifiche proposte all’informativa danni già oggetto di pubblica consultazione (documento n. 3/2017). Il tutto al fine di predisporre una disciplina organica in linea con le nuove disposizioni previste in materia dalla novella al Codice delle assicurazioni introdotta con il citato d. lgs. 68/2018, nonché volta ad
+2 KID (Key Information Document) documento standartizzato base per i prodotti d’investimento assicurativi.
+3 IPID (Insurance Product Information Document), documento informativo precontrattuale standard per i prodotti danni.
+ 8
+
+ integrare le disposizioni a tutela dei contraenti con previsioni relative alla digitalizzazione del mercato, in pieno raccordo con gli obiettivi normativi della citata direttiva (IDD).
+2. Potenziali destinatari
+L’intervento normativo oggetto della presente valutazione d’impatto è destinato alle imprese di assicurazione con sede legale in Italia autorizzate all’esercizio dell’attività assicurativa, alle imprese di assicurazione aventi sede legale in uno Stato terzo abilitate in Italia all’esercizio dell’attività assicurativa in regime di stabilimento, nonché – con alcune eccezioni - alle imprese di assicurazione aventi sede legale in un altro Stato membro dell’Unione Europea abilitate in Italia all’esercizio dell’assicurazione in regime di stabilimento o di libera prestazione di servizi.
+3. Obiettivi
+La rivisitazione del complesso dell’informativa, il cui processo di semplificazione è già stato avviato dall’Istituto con riferimento ai rami danni, persegue, in coerenza con quanto già anticipato nella Relazione, gli obiettivi di:
+- semplificazione e razionalizzazione della documentazione e delle relazioni tra imprese di assicurazione e clientela nonché dei processi aziendali. Ciò oltre alla minimizzazione dei costi imposti dalla regolamentazione anche attraverso la previsione di modalità di consegna alternative alla carta (ricorso a mezzi telematici previo consenso del consumatore), si forniscono informazioni di più facile e immediata comprensione, che agevolano il confronto tra più prodotti e la scelta del prodotto più adatto alle proprie esigenze assicurative, perseguendo il fine ultimo di tutela del consumatore;
+- efficienza dell’azione amministrativa, in quanto coerente con i dettami europei in tema di IPID e di KID;
+- omogeneità di regolamentazione e dell’intero spettro dell’informativa precontrattuale dei prodotti assicurativi.
+Inoltre, come indicato, sono state apportate al regolamento le integrazioni e modifiche necessarie ad accrescere il livello di tutela del contraente e di digitalizzazione del mercato. Nell’ambito del processo di AIR sono state valutate le possibili opzioni percorribili nello sviluppo della disciplina regolamentare.
+4. Processo di analisi.
+Nell’ambito del processo di AIR sono state valutate le possibili opzioni percorribili nello sviluppo della disciplina regolamentare, anche alla luce:
+- delle informazioni e dei dati già disponibili presso l’Istituto;
+- delle osservazioni pervenute a seguito della fase di pubblica consultazione dello schema di
+regolamento.
+5. Opzioni regolamentari oggetto di valutazione.
+Tenuto conto della peculiarità della materia, le valutazioni delle opzioni regolamentari percorribili sono state di carattere qualitativo ed hanno riguardato le tematiche oggetto di particolare discussione.
+Nel caso in cui le informazioni non sono state ritenute complete, in quanto ad esempio le fonti potevano far emergere solo un aspetto parziale del fenomeno nel suo complesso, si è ritenuto
+   9
+
+ di non considerarle in quanto non attendibili o comunque foriere di possibili effetti distorsivi. L’analisi ha portato quindi verso opzioni ritenute più prudenti per il raggiungimento degli obiettivi proposti.
+Le opzioni regolamentari considerate coprono le seguenti tematiche:
+1. Documento informativo precontrattuale per i prodotti assicurativi vita di cui all'articolo 185-ter del CAP diversi dai prodotti di investimento (DIP Vita) e relativo documento informativo
+precontrattuale aggiuntivo (DIP Aggiuntivo Vita);
+2. Documento informativo precontrattuale aggiuntivo dei prodotti “multirischi” (DIP aggiuntivo
+Multirischi): prodotti che abbinano garanzie vita relative a prodotti diversi dai prodotti
+d’investimento con garanzie danni;
+3. Documento informativo precontrattuale aggiuntivo dei prodotti afferenti ai rami danni (DIP
+Danni);
+4. Documento informativo precontrattuale aggiuntivo dei prodotti d’investimento assicurativi
+(DIP Aggiuntivo IBIP) ed il suo perimetro di applicazione;
+5. Comunicazioni in caso di esercizio di opzioni contrattuali nei prodotti d’investimento
+assicurativo;
+6. Trasformazione del contratto;
+7. Ambito di applicazione del regolamento con riferimento alle disposizioni relative alla
+pubblicazione nel sito internet delle imprese abilitate ad operare in Italia;
+8. Disposizioni relative alle disposizioni relative alla home insurance;
+9. Ambito di applicazione del regolamento con riferimento alle disposizioni relative alla home
+insurance relativamente alle imprese abilitate ad operare in Italia;
+10. Pubblicazione nel sito internet delle imprese del set informativo relativo a tutti i prodotti dei
+rami danni;
+11. Pubblicazione nei quotidiani del valore delle quote dei prodotti unit e index e del rendiconto
+della gestione separata.
+6. Analisi di impatto e relative scelte opzionali
+Con riferimento alle decisioni regolamentari principali elaborate e valutate, sono di seguito indicate le alternative regolamentari ritenute percorribili. Ne sono quindi illustrati i principali aspetti positivi e le criticità, analizzati in modo da motivare adeguatamente la scelta da ultimo individuata, operata tenendo conto del principio di proporzionalità, del contenimento di costi evitabili, della tutela del consumatore, dell’efficacia dell’azione di vigilanza e delle osservazioni formulate in occasione della pubblica consultazione.
+1. Documento informativo precontrattuale per i prodotti assicurativi vita di cui all'articolo 185-ter del decreto legislativo di attuazione della direttiva IDD diversi dai prodotti di investimento (DIP Vita) e relativo documento informativo precontrattuale aggiuntivo (DIP aggiuntivi Vita).
+Opzione regolamentare Principali aspetti positivi Principali criticità
+     a) Mantenere inalterato il contenuto del documento informativo di cui all’Allegato 4 al Regolamento ISVAP n. 35/2010 (Schema di nota informativa contratto di puro rischio), limitando la modifica alla sola denominazione dello
+   Possibilità per il potenziale contraente di trarre tutte le informazioni sul prodotto da un unico documento;
+ nessun onere aggiuntivo a carico delle imprese di assicurazione nel produrre l’informativa richiesta ad
+      Il volume e la complessità di informazioni e di documentazione da mettere a disposizione dei consumatori resterebbe inalterato rispetto a quanto previsto finora, in contrasto con l’obiettivo condiviso di
+10
+
+   stesso documento in conformità a quanto previsto dall’articolo 185-ter del decreto legislativo di attuazione della direttiva IDD.
+   esclusione delle limitate modifiche necessarie per l’adeguamento.
+    pervenire a una maggiore semplificazione e chiarezza nei rapporti tra imprese di assicurazione e consumatori;
+ mancato allineamento con lo schema del documento informativo dei prodotti danni, redatto sul modello dell’IPID europeo.
+  b) Predisposizione di un nuovo documento informativo precontrattuale per i prodotti assicurativi vita diversi dai prodotti di investimento (DIP vita), secondo uno schema conforme al format dell’IPID europeo, e di un documento precontrattuale aggiuntivo che lo integra (DIP aggiuntivo vita).
+  Realizzazione degli obiettivi di semplificazione, di tutela dell’assicurato e di efficienza dell’azione amministrativa;
+ salvaguardia di un’informativa precontrattuale sintetica e comprensiva di tutti gli elementi essenziali alla conclusione del contratto;
+ agevolare il consumatore nel confronto e nella scelta del prodotto più adatto alle proprie esigenze;
+ allineamento con lo schema del documento informativo dei contratti danni, redatto
+sul modello dell’IPID europeo.
+    - Onere delle imprese di modificare le procedure riguardanti l’informativa precontrattuale;
+- onere del consumatore di dover reperire le informazioni in due distinti documenti.
+ E’ stata preferita l’opzione b) indicata in tabella, vale a dire l’introduzione di due nuovi e distinti documenti precontrattuali in sostituzione della Nota Informativa per i prodotti di puro rischio: uno (DIP Vita) ispirato nella struttura e nel contenuto all’IPID europeo, l’altro (DIP aggiuntivo vita), collegato al primo, disciplinato dall’IVASS. Quest’ultimo trae fondamento dal potere regolamentare espressamente riconosciuto all’Istituto in materia d’informativa precontrattuale dal Codice delle assicurazioni (art. 185, comma 3), e dalla Direttiva IDD che prevede la possibilità per gli Stati membri di stabilire che il documento informativo principale sia consegnato contestualmente ad altri documenti previsti dalle legislazioni nazionali (art. 20, comma 7).
+Al fine di ridurre le criticità rilevate, il DIP aggiuntivo vita ha carattere integrativo rispetto al DIP Vita, in modo da evitare l’appesantimento dell’informativa e la duplicazione dei contenuti; i collegamenti tra i documenti sono resi immediati e agevoli grazie all’utilizzo di una medesima struttura e grafica delle rubriche. Inoltre, la predisposizione del DIP aggiuntivo vita si presenta ineludibile con riferimento alle informazioni sui reclami, sulla legge applicabile al contratto e sulla solvibilità dell’impresa, previste dalla Direttiva Solvency II, ma non dalla IDD.
+2. Documento informativo precontrattuale aggiuntivo dei prodotti “multirischi” (prodotti che abbinano garanzie vita relative a prodotti diversi dai prodotti d’investimento con garanzie danni).
+Opzione regolamentare Principali aspetti positivi Principali criticità
+a) Non avvalersi della possibilità - Nessun onere a carico - Disomogeneità con il resto dei 11
+           
+   prevista dal CAP, secondo cui l'IVASS stabilisce, con regolamento, le modalità specifiche di redazione del documento informativo precontrattuale nel caso di contratti di assicurazione con garanzie “multirischi”.
+    delle imprese.
+   prodotti poiché per le garanzie “multirischi” si manterrebbe la Nota Informativa;
+ non garantisce al cliente di pervenire a una decisione informata secondo i principi dell’aggiornamento normativo.
+  b) Obbligo, per le imprese, di consegnare al potenziale contraente quattro distinti documenti:
+i. un DIP Danni contenente il cumulo delle garanzie danni;
+ii. un DIP Vita per la garanzia vita di puro rischio;
+iii. un DIP aggiuntivo Danni per le garanzie danni;
+iv. un DIP aggiuntivo Vita per la garanzia vita di puro rischio.
+  - Facilità di adempimento da parte delle imprese di assicurazione, il cui onere è soltanto quello di consegnare al potenziale contraente il cumulo dei singoli documenti precontrattuali, senza procedere ad alcuna aggregazione dei contenuti.
+ - Rilevante volume di informazioni e di documentazione da mettere a disposizione dei consumatori, in contrasto con l’obiettivo della normativa e dell’IVASS di soddisfare la perdurante esigenza di semplificazione dell’informativa precontrattuale.
+  c) Obbligo, per le imprese, di consegnare al potenziale contraente tre distinti documenti: i. un DIP Danni contenente il cumulo delle garanzie danni;
+ii. un DIP Vita per la garanzia vita di puro rischio;
+iii. un unico DIP aggiuntivo Multirischi che comprende tutte le garanzie, danni e vita, previste dal contratto.
+   - Cospicua riduzione nel numero di documenti da consegnare al potenziale contraente;
+- possibilità per il consumatore di avere una visione d’insieme delle garanzie grazie all’unificazione delle stesse in un documento standard.
+  - Predisposizione di un nuovo documento precontrattuale.
+  d) obbligo, per le imprese, di consegnare al potenziale contraente due distinti documenti: i. un DIP Danni contenente il cumulo delle garanzie danni;
+ii. un unico DIP aggiuntivo Multirischi che ingloba il DIP Vita e i due DIP aggiuntivi.
+    - Massima riduzione nel numero dei documenti da consegnare al potenziale contraente.
+   Onere per le imprese nell’aggregare in un unico DIP aggiuntivo anche le informazioni del DIP Vita;
+ scarsa intellegibilità dell’informativa da parte del consumatore e possibilità di confusione.
+  E’ stata preferita l’opzione c), vale a dire l’introduzione dell’obbligo, per le imprese, di consegnare al potenziale contraente tre distinti documenti: un DIP Danni per le garanzie danni, un DIP Vita per la garanzia di puro rischio e un unico DIP aggiuntivo Multirischi che comprenda le informazioni integrative delle coperture vita e danni di cui ai due DIP base.
+La principale motivazione alla base della scelta operata risiede nella caratteristica dell’opzione di associare un contenimento dei documenti da consegnare al potenziale contraente con l’obiettivo di salvaguardia di un’informativa precontrattuale sintetica ma esauriente, di trarre le informazioni aggiuntive sul prodotto da un unico documento e di garantire maggiore confrontabilità tra prodotti.
+12
+
+ 3. Documento informativo precontrattuale aggiuntivo dei prodotti afferenti ai rami danni. Opzione regolamentare Principali aspetti positivi Principali criticità
+     a) Esposizione nel documento aggiuntivo, oltre alle informazioni inerenti ai reclami e alla legge applicabile al contratto, delle sole informazioni che non hanno trovato spazio nel format prestabilito del documento principale.
+    - Informativa snella ma completa, senza duplicazioni rispetto al documento IPID europeo;
+- collegamenti tra i documenti resi agevoli dall’utilizzo della medesima struttura e grafica.
+   Onere del consumatore di passare da un documento all’altro.
+  b) Esposizione nel documento aggiuntivo, oltre alle informazioni inerenti ai reclami e alla legge applicabile al contratto non comprese nel documento principale, di tutte le informazioni relative al prodotto, comprese quelle già riportate nel documento principale.
+   - Il potenziale contraente potrebbe trarre tutte le informazioni sul prodotto dal DIP aggiuntivo.
+  - Duplicazione dell’informativa precontrattuale che sarebbe in parte sovrapponibile.
+ E’ stata preferita l’opzione a), diretta a conferire al documento in parola carattere integrativo di quello base, in modo da evitarne l’appesantimento con informazioni già presenti in quest’ultimo che si determinerebbe accogliendo invece l’opzione alternativa. In questo modo la duplicità della documentazione precontrattuale, riconosciuta e legittimata dalla stessa Direttiva IDD che prevede la facoltà degli Stati membri di richiedere la contestuale consegna di una documentazione di maggior dettaglio, non dà luogo a duplicazione di contenuti con maggiore lunghezza del documento aggiuntivo, ma a un rapporto sinergico tra i due modelli, sottolineato e facilitato dall’uso della medesima struttura e simboli grafici a vantaggio della sinteticità.
+Al fine di ridurre, per quanto possibile, la criticità riconducibile a detta opzione, si raccomanda linearità rappresentativa tra il documento principale e quello aggiuntivo e l’inserimento nelle diverse sezioni, ove necessario, dell’avvertenza che non sono necessarie informazioni ulteriori rispetto a quelle fornite nel DIP Danni. Analoga disposizione è prevista per il DIP aggiuntivo Vita.
+4. Documento informativo precontrattuale aggiuntivo dei prodotti d’investimento assicurativi.
+Opzione regolamentare Principali aspetti positivi Principali criticità
+      a) Non adeguare i contenuti della Nota Informativa e della Scheda Sintetica al testo del nuovo CAP e ai contenuti del KID. Mantenere l’informativa precontrattuale del Regolamento ISVAP n.35 (status quo) in un unico documento precontrattuale
+   - Nessun onere a carico delle imprese.
+   Distonie e incoerenze tra KID e Nota Informativa e Scheda Sintetica, specie con riferimento a costi e indicatori di rischio;
+ duplicazione di alcuni elementi d’informativa precontrattuale (già compresi nel KID);
+  13
+
+    aggiuntivo al KID. Non avvalersi della riserva regolamentare prevista dal CAP (art. 185), che attribuisce all’IVASS il potere di disciplinare, con un nuovo regolamento, il contenuto, lo schema e le istruzioni di compilazione di un nuovo documento informativo
+precontrattuale integrativo del KID.
+aggiuntivo
+      rischio che il cliente non sia in grado di pervenire a una decisione informata sul prodotto e sulle clausole contrattuali;
+ rischio di disallineamento con il contenuto del disposto dell’articolo 185 del CAP.
+    b) Non adeguare Nota Informativa e Scheda Sintetica al KID nell’immediato. Mantenere i relativi allegati del regolamento 35 per un periodo transitorio di durata definita, non avvalersi nell’immediato del potere attribuito dal CAP (art.185) all’IVASS di disciplinare, con un nuovo regolamento, il contenuto, lo schema e le istruzioni di compilazione di un nuovo documento informativo precontrattuale aggiuntivo integrativo del KID.
+ Nessun immediato onere a carico delle imprese nell’immediato;
+ possibilità di elaborare la versione definitiva di DIP aggiuntivo dopo averlo sottoposto a un periodo di test (sia per IVASS che per imprese).
+  Distonie temporanee tra KID e Nota Informativa e Scheda Sintetica, specie con riferimento a costi e indicatori di rischio;
+ rischio che il cliente non sia in grado di pervenire a una decisione informata nell’immediato;
+ incertezza normativa.
+    c) Predisposizione di un nuovo documento informativo precontrattuale aggiuntivo integrativo del KID, con un nuovo allegato/format che razionalizzi le info di Scheda Sintetica e Nota Informativa, rendendole coerenti con KID.
+   Semplificazione dell’informativa precontrattuale corrente in linea con la regolamentazione europea;
+ creazione di un unico “DIP aggiuntivo” standardizzato applicabile a tutti i prodotti assicurativi;
+ creazione di documento nuovo che faccia da ponte
+tra normativa UE e specificità nazionali;
+ valorizzazione delle informazioni specifiche assicurative.
+    - Oneri per chiamate
+le imprese, adeguarsi velocemente ai nuovi obblighi
+ad d’informativa precontrattuale.
+ E’ stata preferita l’opzione c) perché permette di costruire, sulla base di un format grafico nuovo, lo sviluppo di un DIP aggiuntivo per i prodotti IBIP in linea, nei contenuti, con le richieste del nuovo Codice e con la disciplina prevista per il KID europeo.
+L’onere risultante per le imprese, chiamate ad adeguarsi velocemente ai nuovi obblighi d’informativa precontrattuale, è bilanciato dalla razionalizzazione, in coerenza con il KID,
+14
+
+ dell’informativa precontrattuale a oggi prevista da Scheda Sintetica e Nota informativa, determinando – una volta a regime - una tangibile semplificazione delle informazioni da rendere al consumatore.
+Quest’ultimo, inoltre, beneficia di un set informativo maggiormente intellegibile, in linea con la nuova impostazione europea, per alcuni versi rivoluzionaria, del KID.
+5. Comunicazioni in caso di esercizio di opzioni contrattuali nei prodotti d’investimento assicurativi.
+Opzione regolamentare Principali aspetti positivi Principali criticità
+      a) Non modificare la disciplina prevista dal Regolamento ISVAP n. 35, che stabilisce che qualora il contratto preveda la possibilità di esercizio di opzioni l’impresa, almeno sessanta giorni prima della data prevista per il relativo esercizio, debba fornire per iscritto all’avente diritto una descrizione sintetica di tutte le opzioni esercitabili, con evidenza dei relativi costi e delle condizioni economiche, nel caso in cui non siano prefissate nelle condizioni di assicurazione originarie.
+  - Nessun onere a carico delle imprese.
+  - Limitata aderenza al disegno dell’informativa precontrattuale previsto dal nuovo articolo 185 del CAP, che prevede che il DIP aggiuntivo debba contenere tutte le informazioni che siano “necessarie affinché il cliente possa pervenire a una decisione informata su diritti e obblighi contrattuali”, tra cui dovrebbero essere incluse tutte le opzioni esercitabili, con evidenza dei relativi costi e delle condizioni applicate nel caso del loro esercizio.
+   b) Modificare la disciplina corrente, prevedendo che nel DIP aggiuntivo debbano essere sempre descritte tutte le opzioni esercitabili, dando evidenza dei relativi costi e delle condizioni applicate nel caso del loro esercizio.
+  - Maggiore aderenza al disegno dell’informativa precontrattuale previsto dal nuovo articolo 185 del CAP, che prevede che il documento informativo precontrattuale aggiuntivo (c.d. DIP aggiuntivo) debba
+contenere
+informazioni
+“necessarie
+cliente possa pervenire a una decisione informata su diritti e obblighi contrattuali”.
+tutte le che siano affinché il
+  Maggiori oneri organizzativi a carico delle imprese;
+ soluzione normativa che non elimina il rischio che il cliente possa ricevere la documentazione informativa correlata all’opzione contrattuale (in corso di contratto) oltre il tempo utile nel caso in cui il contratto non prevede una data di scadenza per l’esercizio della stessa.
+    c) Modificare la disciplina corrente, prevedendo un set integrato di obblighi articolato anche a seconda della tipologia di opzioni:
+- nel DIP aggiuntivo siano sempre descritte tutte le opzioni esercitabili, con relative modalità e costi
+   - Piena aderenza al disegno dell’informativa precontrattuale previsto dal nuovo articolo 185 del CAP;
+ maggiore trasparenza in sede di informativa precontrattuale in modo da valutare anche le opzioni nell’ambito della scelta del
+   - Maggiori oneri organizzativi a carico delle imprese.
+ 15
+
+    massimi;
+- l’impresa abbia l’obbligo di fornire al contraente la descrizione delle opzioni trenta giorni prima della data di scadenza prevista dal contratto per il loro esercizio; - nei contratti aventi a oggetto prodotti IBIP, nel caso di opzioni, per il cui esercizio non è prevista una scadenza ma che determinano una variazione del capitale garantito, l’impresa abbia l’obbligo di comunicare al contraente, tre giorni prima dell’esercizio dell’opzione, modalità e condizioni di esercizio.
+   contratto;
+ maggiore ponderazione
+degli effetti dell’esercizio dell’opzione.
+    E’ stata preferita l’opzione c) perché maggiormente aderente al disposto dell’articolo 185 del CAP, che prevede che il documento informativo precontrattuale aggiuntivo (c.d. DIP aggiuntivo) debba contenere tutte le informazioni che siano “necessarie affinché il cliente possa pervenire a una decisione informata su diritti e obblighi contrattuali”, tra cui le opzioni esercitabili, di cui è opportuno che sia data evidenza dei relativi costi e delle modalità di esercizio.
+L’onere risultante per le imprese, chiamate a inserire sempre nel DIP aggiuntivo i costi e modalità di esercizio, sarebbe in ogni caso bilanciato dal più ampio disegno di razionalizzazione dell’informativa precontrattuale previsto dal nuovo Regolamento.
+L’introduzione dell’obbligo di fornire al contraente - in corso di contratto - la descrizione delle opzioni trenta giorni prima della data di scadenza prevista per il loro esercizio permette all’assicurato, già reso edotto in sede d’informativa precontrattuale dei costi e delle condizioni relative alle opzioni esercitabili, di ricevere una nuova informativa, questa volta in corso di contratto, in tempo utile per ponderare l’eventuale esercizio di un’opzione contrattuale.
+La medesima finalità di trasparenza contrattuale è perseguita anche con riguardo alle opzioni previste nei contratti aventi a oggetto prodotti IBIP per il cui esercizio non è prevista una data di scadenza ma che, tuttavia, determinano una variazione del capitale garantito, con riferimento alle quali l’impresa ha l’obbligo di comunicare all’assicurato, tre giorni prima dell’esercizio dell’opzione, i relativi costi effettivi e le condizioni applicate, nonché le garanzie e il trattamento fiscale cui questi va incontro a seguito dell’esercizio dell’opzione.
+6. Trasformazione del contratto.
+Opzione regolamentare Principali aspetti positivi Principali criticità
+      a) Non modificare la disciplina prevista dal Regolamento ISVAP n. 35, che regola le c.d. ipotesi di trasformazione del contratto, prevedendo che in tutti i casi di trasformazione tali da determinare la modifica delle
+   Nessun nuovo onere a carico delle imprese.
+    Informativa a ridosso della sottoscrizione del nuovo contratto, senza beneficiare di un congruo periodo utile a maturare una decisione consapevole in relazione alla trasformazione del contratto;
+ limitata aderenza al disegno
+  16
+
+    prestazioni maturate sul contratto originario (compresa la trasformazione attraverso il riscatto) l’impresa debba fornire al contrante “i necessari elementi di valutazione in modo da porlo nella condizione di confrontare le caratteristiche del nuovo contratto con quelle del contratto preesistente”, con
+la consegna,
+procedere
+trasformazione,
+documento informativo da cui emergano le differenze tra il vecchio e il nuovo contratto,
+nonché, per contratto, documentazione
+dalla normativa conservando dell’avvenuta consegna.
+prima di alla del
+il
+nuovo della richiesta vigente, prova
+    dell’informativa precontrattuale previsto dal nuovo articolo 185 del CAP;
+ rischio di limitata ponderazione delle scelte contrattuali.
+   b) Modificare la disciplina corrente introducendo un congruo periodo di tempo (trenta giorni) per informare preventivamente il contraente su portata e conseguenze della trasformazione, nonché su caratteristiche del nuovo contratto, anche nel caso in cui la trasformazione si attui attraverso il riscatto del precedente contratto.
+  Maggiore aderenza al disegno dell’informativa precontrattuale previsto dal nuovo articolo 185 del CAP;
+ il contraente dispone di un congruo periodo di tempo per maturare una decisione consapevole e ragionata in ordine alla trasformazione del contratto;
+ eliminazione della contestualità temporale automatica tra esercizio del diritto di riscatto e sottoscrizione del nuovo contratto.
+   Maggiori oneri organizzativi a carico delle imprese.
+ rischio che il contraente non possa beneficiare di condizioni economiche più favorevoli per effetto del periodo di sospensione.
+    c) Modificare la disciplina corrente come illustrato al punto b), ma prevedendo la riduzione del periodo di riflessione più breve da trenta a sette giorni.
+   Valgono di stessi benefici di cui all’ipotesi b).
+    Maggiori oneri organizzativi a carico delle imprese;
+ esiguo e marginale rischio che il contraente non possa beneficiare di condizioni economiche più favorevoli per effetto del periodo di sospensione.
+  Tenuto conto delle osservazioni formulate in occasione della pubblica consultazione, in particolare relative al rischio che il contraente non possa beneficiare di condizioni economiche più
+17
+
+ favorevoli per effetto del periodo di sospensione è stata ritenuta preferibile l’opzione c), in quanto pur mantenendo in via generale il periodo di riflessione, ne riduce la durata limitando sensibilmente il rischio paventato dai commentatori. In tal modo si ritiene conciliata la tutela del contraente con l’eventuale volontà di cogliere situazioni temporali valutate dal medesimo come di particolare favore. Tuttavia, tenuto conto dei nuovi obblighi a carico delle imprese, consistenti anche nella consegna di un documento informativo standardizzato, si consente alle imprese di adeguarsi alla nuova disciplina entro il 1° maggio 2019.
+7. Ambito di applicazione del Regolamento con riferimento alle disposizioni relative alla pubblicazione sul sito internet delle imprese europee abilitate a operare in Italia.
+Opzione regolamentare Principali aspetti positivi Principali criticità
+     a) Mantenere inalterato l’ambito di applicazione del regolamento che esclude le imprese aventi sede legale in altro Stato membro dell’Unione Europea e abilitate all’esercizio dell’assicurazione in regime di stabilimento o di libera prestazione di servizi, ad eccezione dei contratti R.C. auto, dall’osservanza delle disposizioni relative alla pubblicazione nel sito internet.
+   - Continuità con il passato e assenza di oneri a carico delle imprese.
+  Limitata informativa per i potenziali contraenti presso imprese abilitate a operare in Italia;
+ disparità di trattamento per le imprese autorizzate in Italia.
+   b) Estendere l’ambito di applicazione del regolamento alle imprese aventi sede legale in altro Stato membro dell’Unione Europea e abilitate all’esercizio dell’assicurazione in regime di stabilimento o di libera prestazione di servizi, per i contratti diversi dalla R.C. auto, per quanto riguarda le disposizioni relative alla pubblicazione nel sito internet.
+   Parità di trattamento sotto il profilo dell’informativa precontrattuale per i potenziali contraenti presso imprese abilitate a operare in Italia;
+ migliore possibilità per le imprese abilitate di far conoscere i propri prodotti.
+     - Oneri delle imprese abilitate a operare in Italia connessi alla predisposizione e gestione dei propri siti internet.
+ E’ stata preferita l’opzione b) in considerazione del particolare interesse generale a una piena informativa del consumatore sui prodotti presenti nel mercato e alla possibilità di quest’ultimo di operare una scelta consapevole e informata, accompagnata peraltro da una maggiore visibilità e diffusione per le imprese in parola circa i propri prodotti, a fronte di relativi maggiori oneri. Tale soluzione realizza anche un’opportuna parità di trattamento tra imprese autorizzate e imprese abilitate a operare in Italia.
+8. Disposizioni relative alla home insurance.
+Opzione regolamentare Principali aspetti positivi Principali criticità
+a) Mantenere inalterata la - Continuità con il passato e  Mancato utilizzo delle
+funzionalità solamente assenza di oneri a carico potenzialità offerte dalla consultiva delle arre riservate.
+         18
+
+    delle imprese. digitalizzazione;
+  b) Estendere la funzionalità delle aree riservate alla gestione dei rapporti contrattuali, consentendo al contraente di richiedere per via informatica l’esecuzione di operazioni contrattuali.
+    - Minori costi gestionali per il contraente;
+- Maggiore facilità di esecuzione delle operazioni contrattuali.
+.
+   - Oneri delle imprese
+connessi
+predisposizione e gestione dei propri siti internet.
+alla
+  c) Estendere la funzionalità delle aree riservate alla gestione dei rapporti contrattuali consentendo al contraente di effettuare le operazioni con modalità automatica (c.d. self service).
+   - Minori costi gestionali per il contraente;
+- Maggiore facilità di esecuzione delle operazioni contrattuali.
+  - Ulteriori oneri rispetto all’opzione b) connessi alle verifiche in tempo reale che l’impresa deve effettuare per dare corso alla richiesta del contraente.
+ E’ stata preferita l’opzione b) tenuto conto degli ulteriori elementi emersi a margine della pubblica consultazione e dei risultati conclusivi dell’analisi d’impatto, in quanto l’introduzione di funzionalità di gestione oltre che di mera consultazione delle aree riservate risponde a esigenze di modernizzazione e digitalizzazione del mercato assicurativo con modalità tali da non rappresentare oneri eccesivi a carico delle imprese.
+9. Ambito di applicazione del Regolamento con riferimento alle disposizioni relative alla home insurance relativamente alle imprese europee abilitate a operare in Italia.
+Opzione regolamentare Principali aspetti positivi Principali criticità
+     a) Mantenere inalterato l’ambito di applicazione del regolamento che esclude le imprese aventi sede legale in altro Stato membro dell’Unione Europea e abilitate all’esercizio dell’assicurazione in regime di stabilimento o di libera prestazione di servizi, ad eccezione di quelle abilitate al ramo r.c. auto, dall’osservanza delle disposizioni relative alla predisposizione nei propri siti internet di apposite aree riservate ai contraenti per la consultazione delle relative posizioni assicurative.
+   - Continuità con il passato e assenza di oneri a carico delle imprese.
+  Impossibilità per i contraenti con imprese comunitarie abilitate a operare in Italia di gestire in via telematica i rapporti contrattuali;
+ disparità di trattamento con i contraenti di imprese autorizzate a operare in Italia.
+   b) Estendere alle imprese comunitarie abilitate a operare in Italia le disposizioni relative alla predisposizione nei propri siti internet di apposite aree riservate ai contraenti nella
+    - Vantaggi per i contraenti con imprese comunitarie abilitate a operare in Italia relativi alla possibilità di gestire in via telematica i rapporti contrattuali in
+   - Oneri delle imprese comunitarie abilitate a operare in Italia connessi alla predisposizione e gestione delle aree riservate nei propri siti internet.
+ 19
+
+   versione potenziata prevista dal nuovo regolamento, che consente a questi ultimi, oltre che la consultazione della propria posizione assicurativa, anche la disposizione di operazioni di gestione sui contratti attivi.
+    essere.
+     c) Prevedere l’estensione di cui al punto b) alle imprese comunitarie abilitate a operare in Italia limitatamente ai contratti relativi alla responsabilità civile per la circolazione dei veicoli a motore e dei natanti.
+   - continuità con lo spirito della precedente disciplina che, con riferimento a tale ramo di attività, equiparava le imprese comunitarie a quelle autorizzate in Italia per tutto ciò che riguarda internet;
+- limitazione degli oneri a carico delle imprese.
+  - impossibilità per il contraente di gestire in via telematica i rapporti contrattuali in essere.
+ Tenuto conto delle osservazioni formulate in occasione della pubblica consultazione, e ritenuto più opportuno graduare per le imprese UE le norme sulla home insurance, è stata elaborata e adottata l’opzione c), in quanto si è ritenuto che la predisposizione da parte delle imprese comunitarie di aree nei propri siti internet riservate al contraente possa continuare a essere liberamente valutata dalle medesime, seppur nel rispetto delle disposizioni previste per le imprese italiane.
+10. Pubblicazione nel sito internet delle imprese del set informativo relativo ai prodotti di tutti i rami danni.
+Opzione regolamentare Principali aspetti positivi Principali criticità
+     a) Mantenere la disposizione che prevede la pubblicazione nel sito internet della documentazione informativa precontrattuale relativa ai contratti solo di alcuni rami danni.
+   - Continuità con il passato e assenza di oneri a carico delle imprese.
+  - Limitata possibilità per il consumatore di conoscere attraverso i siti internet le informazioni precontrattuali relative a ogni rischio dei rami danni, tenuto conto della crescita di altre tipologie di rischio in coerenza con l’evoluzione delle esigenze assicurative.
+  b) Estendere l’obbligo di pubblicazione nel sito internet della documentazione informativa precontrattuale relativa ai contratti di tutti i rami danni.
+   Possibilità per il consumatore di conoscere attraverso i siti internet delle imprese le informazioni precontrattuali relative a ogni rischio dei rami danni;
+ migliore possibilità per le imprese di far conoscere i propri prodotti.
+     - Oneri delle imprese connessi all’integrazione e gestione dei propri siti internet.
+ 20
+
+ E’ stata preferita l’opzione b) in considerazione del consolidamento di internet come strumento di ricerca e conoscenza d’informazioni e, quindi, dell’opportunità di soddisfare l’esigenza comune di acquisire ogni utile informazione riguardo ai prodotti offerti attraverso uno strumento diffuso e di immediata consultabilità. Tale soluzione offre peraltro alle imprese la possibilità di dare maggiore visibilità e diffusione ai propri prodotti.
+11. Pubblicazione nei quotidiani del valore delle quote dei prodotti unit e index e del rendiconto della gestione separata.
+Opzione regolamentare Principali aspetti positivi Principali criticità
+     a) Mantenere inalterato l’obbligo di pubblicazione giornaliera del valore delle quote dei prodotti unit e index e annuale del rendiconto della gestione separata.
+    - Tutela delle esigenze informative degli utenti che non hanno familiarità con l’uso di internet.
+   - Costi di pubblicazione a carico delle imprese, ribaltati indirettamente sull’assicurato.
+  b) Eliminare l’obbligo di pubblicazione sui quotidiani del valore delle quote dei prodotti unit e index e del rendiconto della gestione separata, sostituendolo con la pubblicazione sul sito internet dell’impresa e con il diritto del contraente di richiedere in ogni momento all’impresa il valore della quota del fondo interno o della quota o azione collegata al prodotto.
+  Ulteriore passo verso la digitalizzazione del comparto assicurativo;
+ eliminazione del costo di pubblicazione, gravante indirettamente sull’assicurato, con conseguente aumento del rendimento della gestione;
+ semplificazione degli oneri informativi a carico delle imprese.
+    - Disallineamento con il Regolamento emittenti della Consob del 2017 (art. 34) che prevede ancora l’obbligo di pubblicazione sui quotidiani (oltre che sul sito internet) del valore delle quote dei prodotti unit e index.
+  E’ stata preferita l’opzione b) in quanto, considerato che l’obbligo di pubblicazione è configurabile come una comunicazione in corso di contratto che ai sensi dell’articolo 185 CAP ricade nella competenza dell’IVASS, si ritiene di poter intanto semplificare l’informativa prevista dalla regolamentazione IVASS. L’eliminazione dell’obbligo di pubblicazione sui quotidiani non reca comunque pregiudizio alle necessità informative dei consumatori non digitalizzati in quanto è previsto il diritto del contraente di richiedere in ogni momento all’impresa il valore della quota del fondo interno o della quota o azione collegata al prodotto.
+21
