@@ -137,6 +137,7 @@ def ask_claude(system_text, user_text, image_b64=None, mime="image/png", on_delt
         content.append({"type": "image", "source": {"type": "base64", "media_type": mt, "data": image_b64}})
     content.append({"type": "text", "text": user_text})
     last = None
+    errs = []
     for model in CLAUDE_MODELS:
         try:
             r = requests.post("https://api.anthropic.com/v1/messages",
@@ -147,8 +148,8 @@ def ask_claude(system_text, user_text, image_b64=None, mime="image/png", on_delt
             if r.status_code != 200:
                 t = r.text.lower()
                 if r.status_code in (400, 404) and ("model" in t or "not found" in t):
-                    last = Exception("modello non disponibile: " + model); continue
-                last = Exception("HTTP " + str(r.status_code) + ": " + r.text[:300]); continue
+                    last = Exception("modello non disponibile: " + model); errs.append(model + " => model-not-found"); continue
+                last = Exception("HTTP " + str(r.status_code) + ": " + r.text[:300]); errs.append(model + " => HTTP " + str(r.status_code) + " " + r.text[:150]); continue
             if not stream:
                 return r.json()["content"][0]["text"], model
             acc = ""
@@ -169,7 +170,8 @@ def ask_claude(system_text, user_text, image_b64=None, mime="image/png", on_delt
             return acc, model
         except Exception as e:
             last = e
-    st.error("🛑 ERRORE MOTORE: " + repr(last))
+            errs.append(model + " => EXC " + repr(e)[:150])
+    st.error("🛑 ERRORE MOTORE: " + repr(last) + " || DETTAGLI: " + " | ".join(errs))
     st.stop()
 
 @st.cache_resource
