@@ -148,7 +148,7 @@ def ask_claude(system_text, user_text, image_b64=None, mime="image/png", on_delt
                 t = r.text.lower()
                 if r.status_code in (400, 404) and ("model" in t or "not found" in t):
                     last = Exception("modello non disponibile: " + model); continue
-                r.raise_for_status()
+                last = Exception("HTTP " + str(r.status_code) + ": " + r.text[:300]); continue
             if not stream:
                 return r.json()["content"][0]["text"], model
             acc = ""
@@ -169,7 +169,8 @@ def ask_claude(system_text, user_text, image_b64=None, mime="image/png", on_delt
             return acc, model
         except Exception as e:
             last = e
-    raise last
+    st.error("🛑 ERRORE MOTORE: " + repr(last))
+    st.stop()
 
 @st.cache_resource
 def load_kb():
