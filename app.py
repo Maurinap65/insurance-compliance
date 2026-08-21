@@ -119,7 +119,7 @@ NORMATIVA DI RIFERIMENTO PRIMARIA (verificare sempre nella knowledge base):
 CONTESTO AGGIUNTIVO (RECUPERATO DALLA KNOWLEDGE BASE):
 {retrieved_knowledge_chunks}'''
 
-CLAUDE_MODELS = ["claude-sonnet-4-5", "claude-sonnet-4-20250514", "claude-3-7-sonnet-latest"]
+CLAUDE_MODELS = ["claude-sonnet-4-5"]
 
 def parse_json_loose(text):
     try: return json.loads(text)
@@ -180,18 +180,17 @@ def load_kb():
     for f in sorted(glob.glob("kb/*.txt")):
         name = os.path.basename(f)
         text = open(f, encoding="utf-8", errors="replace").read()
-        text = re.sub(r"\n{3,}", "\n\n", text)
+        text = re.sub(r"\n{2,}", "\n", text)
         buf = ""
-        for p in text.split("\n\n"):
-            p = p.strip()
-            if len(p) < 40:
-                if buf: buf += "\n" + p
+        for ln in text.split("\n"):
+            ln = ln.strip()
+            if not ln:
                 continue
-            if len(buf) + len(p) > 1800:
+            if len(buf) + len(ln) > 1700:
                 if buf: chunks.append((name, buf))
-                buf = p
+                buf = ln
             else:
-                buf = buf + "\n\n" + p if buf else p
+                buf = buf + "\n" + ln if buf else ln
         if buf: chunks.append((name, buf))
     return chunks
 
@@ -361,7 +360,14 @@ with tab1:
             chunks = load_kb()
             results = retrieve(chunks, ad_text or "polizza investimento finanziamento rendimento", 20)
             st.write(f"✅ {len(results)} chunk recuperati")
-            context = "\n\n---\n\n".join([f"[{n}]\n{t}" for n, t in results])
+            parts = []
+            tot = 0
+            for n, t in results:
+                if tot + len(t) > 80000:
+                    break
+                parts.append(f"[{n}]\n{t}")
+                tot += len(t)
+            context = "\n\n---\n\n".join(parts)
             system = SKILL_PROMPT.replace("{retrieved_knowledge_chunks}", context) + "\n\nIMPORTANTE: termina SEMPRE la risposta con la SEZIONE 2 contenente SOLO un oggetto JSON valido, senza recinzioni markdown."
             if prod_text:
                 system += "\n\nDOCUMENTO DI PRODOTTO CARICATO (Set Informativo/DIP/KID):\n" + prod_text[:60000] + "\n\nISTRUZIONI PRODOTTO: verifica che ogni claim economico/di rendimento/di garanzia sia coerente con il documento di prodotto; segnala le incoerenze come violazioni citando la sezione del documento."
