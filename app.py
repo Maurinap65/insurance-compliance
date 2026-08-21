@@ -381,6 +381,8 @@ with tab1:
                 raw, model = ask_claude(system, "MATERIALE DA ANALIZZARE:\n" + ad_text, image_b64, mime, stream=False)
             modello = "NEXORA Deep Engine"
             m2 = raw.find("SEZIONE 2")
+            if m2 == -1:
+                m2 = raw.find("\n{")
             md = raw[:m2] if m2 != -1 else raw
             js = raw[m2:] if m2 != -1 else raw
             try: rep = parse_json_loose(js)
@@ -392,7 +394,7 @@ with tab1:
                 low = raw.lower()
                 ass = "assicurativ" in low; ban = "bancar" in low; fin = "finanziari" in low
                 rep["sector_detected"] = "misto" if (ass and (ban or fin)) else ("assicurativo" if ass else ("finanziario" if fin else ("bancario" if ban else "n.d.")))
-            md = re.sub(r"═+", "", md).replace("SEZIONE 1 - REPORT PER IL CLIENTE", "").strip()
+            md = re.sub(r"═+", "", md).replace("SEZIONE 1 - REPORT PER IL CLIENTE", "").replace("SEZIONE 1 — REPORT PER IL CLIENTE", "").strip()
             st.session_state["ass_result"] = {"md": md, "rep": rep, "model": modello}
             autoscroll(False)
         st.rerun()
