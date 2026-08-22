@@ -117,7 +117,15 @@ NORMATIVA DI RIFERIMENTO PRIMARIA (verificare sempre nella knowledge base):
 - Codice del Consumo + Pratiche commerciali scorrette AGCM
 
 CONTESTO AGGIUNTIVO (RECUPERATO DALLA KNOWLEDGE BASE):
-{retrieved_knowledge_chunks}'''
+{retrieved_knowledge_chunks}
+
+STANDARD DELIVERABLE NEXORA (REGOLE VINCOLANTI):
+1. COERENZA CITAZIONI: per ogni rilievo, la norma citata nel corpo e quella nella fonte devono coincidere esattamente; se incerto scrivi "riferimento da verificare" e non citare.
+2. DIVIETO DOCUMENTI ESTERNI: non menzionare linee guida o documenti assenti dalla knowledge base come se fossero verificati; se una regola non e' nella KB classifica il rilievo come "da verifica manuale" senza nominare fonti esterne come verificate.
+3. MAI RISCRIERE: non produrre esempi completi di copy conforme; solo correzioni puntuali supportate da riferimento normativo.
+4. DATA: usa esclusivamente la data corrente fornita nel messaggio; non inventare date.
+5. DIVIETO META-LINGUAGGIO: niente "temperatura", "allucinazioni", "JSON", "prompt" nel report.
+6. APERTURA: inizia con una SINTESI ESECUTIVA di max 6 righe (conteggi per gravita' + 3 azioni prioritarie).'''
 
 CLAUDE_MODELS = ["claude-sonnet-4-5"]
 
@@ -214,6 +222,14 @@ def retrieve(chunks, query, top=20):
     scored.sort(key=lambda x: -x[0])
     return [(n, t) for s, n, t in scored[:top] if s > 0]
 
+def md_to_plain(s):
+    s = re.sub(r"```[a-zA-Z]*", "", s)
+    s = re.sub(r"(?m)^\s*[-*_]{3,}\s*$", "", s)
+    s = s.replace("**", "").replace("__", "")
+    s = re.sub(r"(?m)^\s*#{1,6}\s*", "", s)
+    s = s.replace("|", " · ")
+    return s
+
 def clean(s):
     s = s.replace("—", "-").replace("–", "-").replace("’", "'").replace("‘", "'").replace("“", '"').replace("”", '"').replace("…", "...")
     s = re.sub(r"[✅⚠❌🔴🟡🟢📎ℹ📋🔍📄⏳]", "", s)
@@ -303,7 +319,7 @@ def build_pdf(md, model):
     pdf.set_x(pdf.l_margin)
     pdf.ln(3)
     pdf.set_font("Helvetica", "", 9)
-    for line in md.split("\n"):
+    for line in md_to_plain(md).split("\n"):
         pdf.set_x(pdf.l_margin)
         pdf.multi_cell(0, 5, clean(line))
         if pdf.get_y() > 270:
@@ -368,7 +384,7 @@ with tab1:
                 parts.append(f"[{n}]\n{t}")
                 tot += len(t)
             context = "\n\n---\n\n".join(parts)
-            system = SKILL_PROMPT.replace("{retrieved_knowledge_chunks}", context) + "\n\nIMPORTANTE: termina SEMPRE la risposta con la SEZIONE 2 contenente SOLO un oggetto JSON valido, senza recinzioni markdown."
+            system = SKILL_PROMPT.replace("{retrieved_knowledge_chunks}", context) + "\n\nIMPORTANTE: termina SEMPRE la risposta con la SEZIONE 2 contenente SOLO un oggetto JSON valido, senza recinzioni markdown." + "\n\nDATA CORRENTE DA USARE NEL REPORT: " + datetime.now().strftime("%d/%m/%Y")
             if prod_text:
                 system += "\n\nDOCUMENTO DI PRODOTTO CARICATO (Set Informativo/DIP/KID):\n" + prod_text[:60000] + "\n\nISTRUZIONI PRODOTTO: verifica che ogni claim economico/di rendimento/di garanzia sia coerente con il documento di prodotto; segnala le incoerenze come violazioni citando la sezione del documento."
             st.write("🧠 Analisi approfondita in corso...")
@@ -395,6 +411,18 @@ with tab1:
                 ass = "assicurativ" in low; ban = "bancar" in low; fin = "finanziari" in low
                 rep["sector_detected"] = "misto" if (ass and (ban or fin)) else ("assicurativo" if ass else ("finanziario" if fin else ("bancario" if ban else "n.d.")))
             md = re.sub(r"═+", "", md).replace("SEZIONE 1 - REPORT PER IL CLIENTE", "").replace("SEZIONE 1 — REPORT PER IL CLIENTE", "").strip()
+            _viol = rep.get("violations", []) if isinstance(rep.get("violations", []), list) else []
+            _crit = [v for v in _viol if str(v.get("severity", "")).upper() == "CRITICAL"]
+            _warn = [v for v in _viol if str(v.get("severity", "")).upper() == "WARNING"]
+            _miss = rep.get("missing_disclaimers", []) or []
+            _top3 = [(v.get("suggested_correction") or v.get("issue") or "") for v in _crit[:3]]
+            _op = "SINTESI ESECUTIVA: " + str(len(_crit)) + " critiche - " + str(len(_warn)) + " avvertenze - " + str(len(_miss)) + " elementi mancanti."
+            if _top3:
+                _op += " AZIONI PRIORITARIE: " + " | ".join(_top3)
+            md = re.sub(r"(?im)^.*data analisi.*$", "**Data analisi:** " + datetime.now().strftime("%d/%m/%Y"), md)
+            _kb = ", ".join(sorted({n for n, _ in results})) if results else "knowledge base"
+            md = "**Corpus consultato:** " + _kb + " - Pezzi pertinenti: " + str(len(results)) + " - Aggiornamento: " + datetime.now().strftime("%d/%m/%Y") + "\n\n" + md
+            st.session_state["nx_onepager_ass"] = _op
             st.session_state["ass_result"] = {"md": md, "rep": rep, "model": modello}
             autoscroll(False)
         st.rerun()
@@ -408,8 +436,11 @@ with tab1:
         with st.container(border=True):
             st.markdown(f"## {badge} Stato complessivo: {stato}")
             st.caption(f"Settore rilevato: {rep.get('sector_detected','n.d.')} · Motore: {r['model']}")
+            _op = st.session_state.get("nx_onepager_ass", "")
+            if _op:
+                st.info("📌 " + _op)
             st.markdown(r["md"])
-            pdf = build_pdf(r["md"], r["model"])
+            pdf = build_pdf((_op + "\n\n" + r["md"]) if _op else r["md"], r["model"])
             st.download_button("📄 Scarica report PDF", pdf, file_name="report_compliance_ass_" + datetime.now().strftime("%Y%m%d_%H%M") + ".pdf", type="primary")
 
 with tab2:
